@@ -1,3666 +1,802 @@
 [
   {
     "id": 1,
-    "pergunta": "Qual é o nome do cachorro da família Simpson?",
-    "opcoes": ["Dino", "Ajudante de Papai Noel", "Scooby-Doo", "Brian"],
+    "pergunta": "Quem construiu a arca para escapar do dilúvio?",
+    "opcoes": ["Moisés", "Noé", "Abraão", "Davi"],
     "correta": 1,
     "nivel": "facil",
-    "explicacao": "O cachorro da família Simpson se chama Ajudante de Papai Noel (Santa’s Little Helper)."
+    "explicacao": "Noé, obedecendo a ordem de Deus, construiu a arca para salvar sua família e os animais (Gênesis 6)."
   },
   {
     "id": 2,
-    "pergunta": "Qual vegetal dava força ao marinheiro Popeye?",
-    "opcoes": ["Cenoura", "Espinafre", "Batata", "Tomate"],
+    "pergunta": "Qual foi o primeiro casal criado por Deus?",
+    "opcoes": ["Abraão e Sara", "Adão e Eva", "Isaque e Rebeca", "José e Maria"],
     "correta": 1,
     "nivel": "facil",
-    "explicacao": "Popeye ficava super forte ao comer espinafre."
+    "explicacao": "Deus criou Adão e Eva como o primeiro casal (Gênesis 2)."
   },
   {
     "id": 3,
-    "pergunta": "Quem era o dono e melhor amigo do cachorro Scooby-Doo?",
-    "opcoes": ["Salsicha", "Fred", "Velma", "Daphne"],
-    "correta": 0,
+    "pergunta": "Quem libertou os israelitas da escravidão do Egito?",
+    "opcoes": ["Josué", "Moisés", "Elias", "Samuel"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "Salsicha é o melhor amigo e dono do Scooby-Doo."
+    "explicacao": "Moisés foi levantado por Deus para libertar o povo do Egito (Êxodo 3)."
   },
   {
     "id": 4,
-    "pergunta": "Qual é o nome do ratinho que sempre fugia do gato Tom?",
-    "opcoes": ["Jerry", "Speedy Gonzalez", "Pinky", "Mickey"],
-    "correta": 0,
+    "pergunta": "Qual rei de Israel foi conhecido por sua grande sabedoria?",
+    "opcoes": ["Davi", "Saul", "Salomão", "Josias"],
+    "correta": 2,
     "nivel": "facil",
-    "explicacao": "O desenho clássico é Tom & Jerry, em que Tom tenta capturar Jerry sem sucesso."
+    "explicacao": "Salomão pediu sabedoria a Deus e se tornou o homem mais sábio (1 Reis 3)."
   },
   {
     "id": 5,
-    "pergunta": "Qual era o bordão característico do Pica-Pau?",
-    "opcoes": ["Haha-haha-haha!", "Yabba Dabba Doo!", "D'oh!", "Isso, isso, isso!"],
-    "correta": 0,
+    "pergunta": "Quem foi lançado na cova dos leões?",
+    "opcoes": ["Elias", "Daniel", "José", "Jonas"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "O riso característico do Pica-Pau é sua marca registrada."
+    "explicacao": "Daniel foi lançado na cova dos leões por não adorar outros deuses (Daniel 6)."
   },
   {
     "id": 6,
-    "pergunta": "Em Cavaleiros do Zodíaco, quem é o cavaleiro de Pégaso?",
-    "opcoes": ["Shiryu", "Hyoga", "Ikki", "Seiya"],
-    "correta": 3,
-    "nivel": "medio",
-    "explicacao": "Seiya é o Cavaleiro de Pégaso e protagonista do anime."
+    "pergunta": "Quem foi engolido por um grande peixe?",
+    "opcoes": ["Jonas", "Pedro", "Elias", "Paulo"],
+    "correta": 0,
+    "nivel": "facil",
+    "explicacao": "Jonas foi engolido por um grande peixe ao fugir da ordem de Deus (Jonas 1:17)."
   },
   {
     "id": 7,
-    "pergunta": "Qual é o nome do amigo rosa do Bob Esponja?",
-    "opcoes": ["Patrick", "Lula Molusco", "Sandy", "Plankton"],
+    "pergunta": "Qual discípulo negou Jesus três vezes?",
+    "opcoes": ["Pedro", "João", "Tiago", "Tomé"],
     "correta": 0,
     "nivel": "facil",
-    "explicacao": "Patrick Estrela é o melhor amigo do Bob Esponja."
+    "explicacao": "Pedro negou Jesus três vezes antes do cantar do galo (Mateus 26:75)."
   },
   {
     "id": 8,
-    "pergunta": "Quem era o vilão que sempre tentava capturar o Papa-Léguas?",
-    "opcoes": ["Coiote", "Patolino", "Frajola", "Pernalonga"],
-    "correta": 0,
+    "pergunta": "Quem traiu Jesus por 30 moedas de prata?",
+    "opcoes": ["Pedro", "Judas Iscariotes", "Pilatos", "Caifás"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "O Coiote passava episódios inteiros tentando capturar o Papa-Léguas sem sucesso."
+    "explicacao": "Judas Iscariotes traiu Jesus por 30 moedas de prata (Mateus 26:15)."
   },
   {
     "id": 9,
-    "pergunta": "Qual é o nome da cidade onde se passa 'Os Flintstones'?",
-    "opcoes": ["Bedrock", "Springfield", "Stoneville", "Granite City"],
-    "correta": 0,
+    "pergunta": "Quem foi o primeiro rei de Israel?",
+    "opcoes": ["Davi", "Saul", "Salomão", "Jeroboão"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "Os Flintstones vivem na cidade pré-histórica de Bedrock."
+    "explicacao": "Saul foi escolhido como o primeiro rei de Israel (1 Samuel 10)."
   },
   {
     "id": 10,
-    "pergunta": "Qual era a cor do uniforme dos Smurfs?",
-    "opcoes": ["Azul e branco", "Verde e preto", "Vermelho e amarelo", "Azul e vermelho"],
-    "correta": 0,
+    "pergunta": "Quem venceu o gigante Golias?",
+    "opcoes": ["Salomão", "Sansão", "Davi", "Josué"],
+    "correta": 2,
     "nivel": "facil",
-    "explicacao": "Os Smurfs são azuis e usam roupas brancas."
+    "explicacao": "Davi derrotou Golias com uma funda e uma pedra (1 Samuel 17)."
   },
   {
     "id": 11,
-    "pergunta": "Qual é o nome do vilão principal dos Smurfs?",
-    "opcoes": ["Gárgamel", "Plankton", "Coiote", "Patolino"],
+    "pergunta": "Qual apóstolo era cobrador de impostos?",
+    "opcoes": ["Mateus", "João", "Pedro", "André"],
     "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Gárgamel é o mago que sempre tenta capturar os Smurfs."
+    "nivel": "medio",
+    "explicacao": "Mateus era publicano, cobrador de impostos, antes de seguir Jesus (Mateus 9:9)."
   },
   {
     "id": 12,
-    "pergunta": "Qual é a profissão do pai da família Jetsons?",
-    "opcoes": ["Operário de fábrica", "Executivo de escritório", "Piloto espacial", "Inventor"],
+    "pergunta": "Quem escreveu a maioria das cartas do Novo Testamento?",
+    "opcoes": ["Pedro", "Paulo", "João", "Tiago"],
     "correta": 1,
     "nivel": "medio",
-    "explicacao": "George Jetson trabalhava em um escritório futurista, apertando botões."
+    "explicacao": "O apóstolo Paulo escreveu a maior parte das epístolas (Romanos a Filemom)."
   },
   {
     "id": 13,
-    "pergunta": "Qual era o superpoder da Docinho nas Meninas Superpoderosas?",
-    "opcoes": ["Força", "Supervelocidade", "Raio laser", "Invisibilidade"],
-    "correta": 0,
+    "pergunta": "Quem foi o homem mais forte mencionado na Bíblia?",
+    "opcoes": ["Golias", "Sansão", "Absalão", "Davi"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "Docinho era a mais forte e durona do trio."
+    "explicacao": "Sansão foi abençoado por Deus com grande força (Juízes 13–16)."
   },
   {
     "id": 14,
-    "pergunta": "Em Dragon Ball Z, quem foi o primeiro a se transformar em Super Saiyajin?",
-    "opcoes": ["Vegeta", "Gohan", "Goku", "Trunks"],
-    "correta": 2,
+    "pergunta": "Quem foi a mãe de Samuel, o profeta?",
+    "opcoes": ["Sara", "Ana", "Rute", "Débora"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "Goku foi o primeiro a alcançar a forma de Super Saiyajin na luta contra Freeza."
+    "explicacao": "Ana orou a Deus pedindo um filho e nasceu Samuel (1 Samuel 1)."
   },
   {
     "id": 15,
-    "pergunta": "Quem era o cientista que ajudava o He-Man?",
-    "opcoes": ["Mentor", "Orko", "Esqueleto", "Adam"],
-    "correta": 0,
+    "pergunta": "Quem foi transformado em estátua de sal por olhar para trás?",
+    "opcoes": ["A mulher de Jó", "A mulher de Ló", "Raabe", "Mical"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "Mentor era o conselheiro e cientista que ajudava He-Man."
+    "explicacao": "A mulher de Ló virou estátua de sal ao olhar para Sodoma (Gênesis 19:26)."
   },
   {
     "id": 16,
-    "pergunta": "Qual era o bordão dos Thundercats?",
-    "opcoes": ["Ho!", "Go Go!", "Avante!", "Força!"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "O bordão era 'Thundercats, Ho!' gritado por Lion-O."
+    "pergunta": "Qual profeta desafiou os profetas de Baal no monte Carmelo?",
+    "opcoes": ["Eliseu", "Isaías", "Elias", "Jeremias"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "Elias confrontou os profetas de Baal e Deus respondeu com fogo (1 Reis 18)."
   },
   {
     "id": 17,
-    "pergunta": "Qual é o nome da filha dos Jetsons?",
-    "opcoes": ["Luna", "Judy", "Elroy", "Rosie"],
-    "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Judy é a filha adolescente dos Jetsons."
+    "pergunta": "Quem escreveu os Salmos em sua maioria?",
+    "opcoes": ["Moisés", "Salomão", "Davi", "Asafe"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "O rei Davi compôs a maior parte dos Salmos (Salmos 1–150)."
   },
   {
     "id": 18,
-    "pergunta": "Qual era o apelido do amigo magrelo do Caverna do Dragão?",
-    "opcoes": ["Mestre dos Magos", "Presto", "Eric", "Bobby"],
-    "correta": 1,
+    "pergunta": "Quem foi vendido como escravo por seus irmãos?",
+    "opcoes": ["José", "Moisés", "Esaú", "Gideão"],
+    "correta": 0,
     "nivel": "facil",
-    "explicacao": "Presto era o mago atrapalhado do grupo."
+    "explicacao": "José foi vendido por seus irmãos por inveja (Gênesis 37)."
   },
   {
     "id": 19,
-    "pergunta": "Quem era o arqui-inimigo do He-Man?",
-    "opcoes": ["Skeletor", "Hordak", "Mumm-Ra", "Lex Luthor"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Skeletor era o vilão clássico do desenho He-Man."
+    "pergunta": "Quem foi o sucessor de Moisés na liderança de Israel?",
+    "opcoes": ["Arão", "Josué", "Calebe", "Eli"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Josué foi escolhido por Deus para liderar o povo após Moisés (Josué 1:1–2)."
   },
   {
     "id": 20,
-    "pergunta": "Qual era o nome do carro do Dick Vigarista na Corrida Maluca?",
-    "opcoes": ["Máquina Voadora", "Carro da Trapaça", "Carroça do Mal", "Máquina do Mal"],
+    "pergunta": "Quem foi o profeta que ungiu Davi como rei?",
+    "opcoes": ["Elias", "Samuel", "Natan", "Isaías"],
     "correta": 1,
     "nivel": "medio",
-    "explicacao": "Dick Vigarista pilotava o Carro da Trapaça (00)."
+    "explicacao": "O profeta Samuel ungiu Davi como rei de Israel (1 Samuel 16)."
   },
   {
     "id": 21,
-    "pergunta": "Qual era o nome do leão líder dos Thundercats?",
-    "opcoes": ["Panthro", "Lion-O", "Tygra", "Snarf"],
-    "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Lion-O era o líder dos Thundercats e portador da Espada Justiceira."
+    "pergunta": "Quem escreveu o Apocalipse?",
+    "opcoes": ["Paulo", "Pedro", "João", "Tiago"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "O apóstolo João escreveu o Apocalipse na ilha de Patmos (Apocalipse 1:9)."
   },
   {
     "id": 22,
-    "pergunta": "Quem era o vilão que sempre perseguia o Piu-Piu?",
-    "opcoes": ["Coiote", "Frajola", "Tom", "Patolino"],
-    "correta": 1,
-    "nivel": "facil",
-    "explicacao": "O gato Frajola vivia tentando capturar o passarinho Piu-Piu."
+    "pergunta": "Quem foi o pai de João Batista?",
+    "opcoes": ["Zacarias", "José", "Simeão", "Nicodemos"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "Zacarias foi o pai de João Batista, conforme anunciado pelo anjo Gabriel (Lucas 1)."
   },
   {
     "id": 23,
-    "pergunta": "Qual era o nome do protagonista de Doug Funnie?",
-    "opcoes": ["Doug", "Roger", "Porkchop", "Skeeter"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "O desenho era sobre a vida do garoto Doug Funnie."
+    "pergunta": "Qual era a profissão de Lucas, autor do Evangelho?",
+    "opcoes": ["Pescador", "Carpinteiro", "Médico", "Pastor"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "Lucas era médico e companheiro de Paulo (Colossenses 4:14)."
   },
   {
     "id": 24,
-    "pergunta": "Qual é o nome do esquilo que formava dupla com o Catatau?",
-    "opcoes": ["Ligeirinho", "Zeca Urubu", "Zé Colmeia", "Pica-Pau"],
-    "correta": 2,
-    "nivel": "facil",
-    "explicacao": "Zé Colmeia era o urso do Parque Jellystone e Catatau seu amigo."
+    "pergunta": "Quem pediu a cabeça de João Batista?",
+    "opcoes": ["Herodias", "Salomé", "Pilatos", "Caifás"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "Herodias, por meio de sua filha, pediu a cabeça de João Batista (Marcos 6:24–25)."
   },
   {
     "id": 25,
-    "pergunta": "Qual é o nome do planeta natal do Superman em Superamigos?",
-    "opcoes": ["Krypton", "Marte", "Terra", "Namekusei"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Superman nasceu no planeta Krypton."
+    "pergunta": "Quem foi chamado de 'amigo de Deus'?",
+    "opcoes": ["Moisés", "Abraão", "Davi", "Noé"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Abraão foi chamado de amigo de Deus (Tiago 2:23)."
   },
   {
     "id": 26,
-    "pergunta": "Qual é o nome do ratinho mexicano super veloz?",
-    "opcoes": ["Jerry", "Speedy Gonzalez", "Mickey", "Pinky"],
-    "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Speedy Gonzalez era conhecido como o rato mais rápido do México."
+    "pergunta": "Quem foi o homem mais paciente da Bíblia?",
+    "opcoes": ["Moisés", "Abraão", "Jó", "Isaías"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "Jó é exemplo de paciência em meio ao sofrimento (Tiago 5:11)."
   },
   {
     "id": 27,
-    "pergunta": "Qual era a profissão do pai do Dexter em O Laboratório de Dexter?",
-    "opcoes": ["Nunca aparecia", "Policial", "Motorista", "Professor"],
-    "correta": 0,
-    "nivel": "medio",
-    "explicacao": "Os pais em O Laboratório de Dexter raramente tinham destaque, a ênfase era no garoto gênio."
+    "pergunta": "Qual discípulo foi conhecido por duvidar da ressurreição de Jesus?",
+    "opcoes": ["Pedro", "Tiago", "Tomé", "João"],
+    "correta": 2,
+    "nivel": "facil",
+    "explicacao": "Tomé duvidou até ver as marcas de Jesus (João 20:27)."
   },
   {
     "id": 28,
-    "pergunta": "Qual era o bordão dos Autobots em Transformers?",
-    "opcoes": ["Autobots, transformar e rodar!", "Morfar!", "Avante!", "Heróis unidos!"],
-    "correta": 0,
+    "pergunta": "Quem foi o rei que jogou Daniel na cova dos leões?",
+    "opcoes": ["Nabucodonosor", "Dario", "Artaxerxes", "Ciro"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "O comando clássico era 'Autobots, transformar e rodar!'."
+    "explicacao": "O rei Dario ordenou que Daniel fosse lançado na cova (Daniel 6:16)."
   },
   {
     "id": 29,
-    "pergunta": "Qual é o nome da garota que andava com Scooby-Doo e usava óculos?",
-    "opcoes": ["Velma", "Daphne", "Betty", "Wilma"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Velma era a inteligente da turma e usava óculos."
+    "pergunta": "Quem interpretou o sonho do faraó no Egito?",
+    "opcoes": ["Moisés", "José", "Daniel", "Arão"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "José interpretou os sonhos do faraó, prevendo os anos de fartura e fome (Gênesis 41)."
   },
   {
     "id": 30,
-    "pergunta": "Qual era o bordão de Chapolin Colorado, exibido junto de Chaves?",
-    "opcoes": ["Ninguém tem paciência comigo!", "Sigam-me os bons!", "Isso, isso, isso!", "Ai, ai, ai!"],
-    "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Chapolin Colorado sempre dizia 'Sigam-me os bons!'."
+    "pergunta": "Quem escreveu grande parte dos Provérbios?",
+    "opcoes": ["Salomão", "Ezequiel", "Esdras", "Isaías"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "O rei Salomão escreveu a maior parte do livro de Provérbios (Provérbios 1:1)."
   },
   {
     "id": 31,
-    "pergunta": "Qual é o nome do vilão principal em Caverna do Dragão?",
-    "opcoes": ["Vingador", "Skeletor", "Mumm-Ra", "Gárgamel"],
-    "correta": 0,
+    "pergunta": "Qual patriarca foi chamado por Deus para sair de Ur dos caldeus?",
+    "opcoes": ["Jacó", "Abraão", "Isaque", "Noé"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "Vingador era o grande vilão que enfrentava os jovens no Reino."
+    "explicacao": "Deus chamou Abraão para deixar sua terra e seguir para Canaã (Gênesis 12)."
   },
   {
     "id": 32,
-    "pergunta": "Qual é o nome do peixe dourado do desenho Gumball?",
-    "opcoes": ["Nemo", "Darwin", "Patrick", "Junior"],
+    "pergunta": "Quem foi o irmão gêmeo de Jacó?",
+    "opcoes": ["José", "Esaú", "Ismael", "Benjamim"],
     "correta": 1,
     "nivel": "facil",
-    "explicacao": "Darwin é o peixe dourado de estimação que virou irmão de Gumball."
+    "explicacao": "Esaú nasceu primeiro, sendo irmão gêmeo de Jacó (Gênesis 25:24-26)."
   },
   {
     "id": 33,
-    "pergunta": "Qual é o nome da vilã em As Meninas Superpoderosas que é um macaco mutante?",
-    "opcoes": ["Ele", "Mojo Jojo", "Mandrake", "Gárgamel"],
+    "pergunta": "Quem interpretou a escrita misteriosa na parede do palácio da Babilônia?",
+    "opcoes": ["Ezequiel", "Daniel", "Jeremias", "Isaías"],
     "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Mojo Jojo é o macaco vilão que vive tentando derrotar as meninas."
+    "nivel": "medio",
+    "explicacao": "Daniel interpretou a escrita 'MENE, MENE, TEQUEL, PARSIM' (Daniel 5:25)."
   },
   {
     "id": 34,
-    "pergunta": "Quem era o melhor amigo do personagem Doug Funnie?",
-    "opcoes": ["Skeeter", "Roger", "Patty", "Arnold"],
+    "pergunta": "Quem foi lançado em uma fornalha de fogo ardente e saiu ileso?",
+    "opcoes": ["Sadraque, Mesaque e Abede-Nego", "Daniel", "Elias", "Paulo e Silas"],
     "correta": 0,
     "nivel": "facil",
-    "explicacao": "Skeeter era o melhor amigo do Doug no desenho."
+    "explicacao": "Sadraque, Mesaque e Abede-Nego foram protegidos por Deus (Daniel 3)."
   },
   {
     "id": 35,
-    "pergunta": "Qual é o nome do cachorro falante em Family Guy?",
-    "opcoes": ["Brian", "Scooby-Doo", "Pluto", "Ajudante de Papai Noel"],
-    "correta": 0,
+    "pergunta": "Quem foi o primeiro mártir cristão?",
+    "opcoes": ["Tiago", "Pedro", "Estevão", "Paulo"],
+    "correta": 2,
     "nivel": "medio",
-    "explicacao": "Brian é o cachorro falante da família Griffin."
+    "explicacao": "Estevão foi apedrejado por pregar o evangelho (Atos 7:59)."
   },
   {
     "id": 36,
-    "pergunta": "Qual era o nome da cidade onde vivia o Pica-Pau em muitos episódios?",
-    "opcoes": ["Pineville", "Peckville", "Cidade Lenhador", "San Francisco"],
-    "correta": 0,
+    "pergunta": "Qual apóstolo foi conhecido como 'filho do trovão' junto com seu irmão?",
+    "opcoes": ["Pedro", "Tiago", "João", "André"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "Pica-Pau vivia em uma cidade fictícia chamada Pineville em alguns episódios."
+    "explicacao": "Jesus chamou Tiago e João de 'Boanerges', que significa filhos do trovão (Marcos 3:17)."
   },
   {
     "id": 37,
-    "pergunta": "Qual é o nome do menino loiro protagonista de Rugrats (Os Anjinhos)?",
-    "opcoes": ["Tommy", "Chuckie", "Phil", "Dil"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Tommy Pickles é o protagonista de Rugrats."
+    "pergunta": "Quem foi a mulher que salvou os espias israelitas em Jericó?",
+    "opcoes": ["Débora", "Raabe", "Rute", "Ester"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Raabe escondeu os espias e foi salva com sua família (Josué 2)."
   },
   {
     "id": 38,
-    "pergunta": "Qual é o nome da irmã mais velha mandona em Rugrats?",
-    "opcoes": ["Lilian", "Angélica", "Susie", "Kimi"],
+    "pergunta": "Quem pediu sabedoria a Deus e recebeu também riquezas e honra?",
+    "opcoes": ["Davi", "Salomão", "Samuel", "Josias"],
     "correta": 1,
     "nivel": "facil",
-    "explicacao": "Angélica Pickles era a prima mais velha que mandava nas crianças."
+    "explicacao": "Salomão pediu sabedoria e Deus lhe concedeu muito mais (1 Reis 3:11-13)."
   },
   {
     "id": 39,
-    "pergunta": "Qual era o bordão do Pernalonga?",
-    "opcoes": ["E aí, doutor?", "Que que há, velhinho?", "Isso, isso, isso!", "Eu sou mais eu!"],
+    "pergunta": "Quem reconstruiu os muros de Jerusalém?",
+    "opcoes": ["Esdras", "Neemias", "Zorobabel", "Josias"],
     "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Pernalonga sempre dizia 'Que que há, velhinho?'."
+    "nivel": "medio",
+    "explicacao": "Neemias liderou a reconstrução dos muros de Jerusalém (Neemias 2)."
   },
   {
     "id": 40,
-    "pergunta": "Qual era o apelido do alter ego de Doug Funnie quando ele se imaginava super-herói?",
-    "opcoes": ["Capitão Fantástico", "Homem Codorna", "Super Doug", "Homem Borracha"],
-    "correta": 1,
+    "pergunta": "Quem foi a única juíza de Israel mencionada na Bíblia?",
+    "opcoes": ["Rute", "Ana", "Débora", "Miriã"],
+    "correta": 2,
     "nivel": "medio",
-    "explicacao": "Doug se imaginava como o super-herói Homem Codorna."
+    "explicacao": "Débora foi juíza e profetisa em Israel (Juízes 4)."
   },
   {
     "id": 41,
-    "pergunta": "Qual é o nome do avô do Arnold em Hey Arnold?",
-    "opcoes": ["Phil", "George", "Stanley", "Bob"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "O avô de Arnold se chamava Phil."
+    "pergunta": "Quem substituiu Judas Iscariotes entre os apóstolos?",
+    "opcoes": ["Barnabé", "Silas", "Matias", "Tadeu"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "Matias foi escolhido por sorteio para substituir Judas (Atos 1:26)."
   },
   {
     "id": 42,
-    "pergunta": "Qual é o nome da garota apaixonada pelo Arnold, mas que disfarçava sendo grossa?",
-    "opcoes": ["Helga", "Phoebe", "Patty", "Angélica"],
+    "pergunta": "Qual profeta foi arrebatado ao céu em um redemoinho?",
+    "opcoes": ["Elias", "Eliseu", "Isaías", "Enoque"],
     "correta": 0,
     "nivel": "facil",
-    "explicacao": "Helga Pataki era apaixonada pelo Arnold, mas escondia com implicâncias."
+    "explicacao": "Elias foi levado ao céu num redemoinho com carros de fogo (2 Reis 2:11)."
   },
   {
     "id": 43,
-    "pergunta": "Qual era o nome do grupo musical dos Animaniacs?",
-    "opcoes": ["Warner Trio", "Animaniacs", "Yakko, Wakko e Dot", "Toon Squad"],
-    "correta": 2,
-    "nivel": "medio",
-    "explicacao": "Os três irmãos malucos eram Yakko, Wakko e Dot."
+    "pergunta": "Quem sucedeu Elias como profeta?",
+    "opcoes": ["Jeremias", "Eliseu", "Samuel", "Isaías"],
+    "correta": 1,
+    "nivel": "facil",
+    "explicacao": "Eliseu recebeu a porção dobrada do espírito de Elias (2 Reis 2:9-15)."
   },
   {
     "id": 44,
-    "pergunta": "Qual é o nome do personagem principal de Samurai Jack?",
-    "opcoes": ["Jack", "Hiro", "Sam", "Aku"],
+    "pergunta": "Qual mulher se tornou rainha da Pérsia e salvou os judeus?",
+    "opcoes": ["Ester", "Rute", "Miriã", "Ana"],
     "correta": 0,
-    "nivel": "medio",
-    "explicacao": "Samurai Jack era o nome do herói que enfrentava Aku."
+    "nivel": "facil",
+    "explicacao": "Ester se tornou rainha e intercedeu pelo povo judeu (Ester 4)."
   },
   {
     "id": 45,
-    "pergunta": "Qual era o nome do vilão em Inspetor Bugiganga?",
-    "opcoes": ["Dr. Claw", "Dr. Evil", "Dr. Malvado", "Dr. Steel"],
-    "correta": 0,
-    "nivel": "medio",
-    "explicacao": "O vilão principal era o misterioso Dr. Claw."
+    "pergunta": "Quem era o governador romano que julgou Jesus?",
+    "opcoes": ["Herodes", "Caifás", "Pilatos", "Augusto"],
+    "correta": 2,
+    "nivel": "facil",
+    "explicacao": "Pôncio Pilatos foi quem julgou e entregou Jesus à crucificação (Mateus 27:24)."
   },
   {
     "id": 46,
-    "pergunta": "Qual é o nome da garota cientista em As Meninas Superpoderosas?",
-    "opcoes": ["Sandy", "Florzinha", "Docinho", "Lindinha"],
-    "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Florzinha era a líder e a mais inteligente das meninas."
+    "pergunta": "Qual discípulo escreveu dois livros dirigidos a Teófilo?",
+    "opcoes": ["Lucas", "Pedro", "Paulo", "João"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "Lucas escreveu o Evangelho de Lucas e Atos dos Apóstolos para Teófilo (Lucas 1:3; Atos 1:1)."
   },
   {
     "id": 47,
-    "pergunta": "Qual era o nome do cachorro do desenho Coragem, o Cão Covarde?",
-    "opcoes": ["Coragem", "Covardão", "Salsicha", "Scooby"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "O cachorro se chamava Coragem, apesar de ser medroso."
+    "pergunta": "Quem derrotou os midianitas com apenas 300 homens?",
+    "opcoes": ["Josué", "Sansão", "Gideão", "Saul"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "Gideão venceu os midianitas com apenas 300 homens escolhidos por Deus (Juízes 7)."
   },
   {
     "id": 48,
-    "pergunta": "Qual é o nome do macaco ajudante do Aladdin?",
-    "opcoes": ["Abu", "Rajah", "Genie", "Iago"],
-    "correta": 0,
+    "pergunta": "Quem foi o primeiro homem a ser assassinado na Bíblia?",
+    "opcoes": ["Caim", "Abel", "Sete", "Ismael"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "Abu era o macaco companheiro de Aladdin."
+    "explicacao": "Abel foi morto por seu irmão Caim (Gênesis 4:8)."
   },
   {
     "id": 49,
-    "pergunta": "Qual era o nome do vilão que enfrentava o Pantera Cor-de-Rosa?",
-    "opcoes": ["Não tinha vilão fixo", "Coiote", "Inspector Clouseau", "Skeletor"],
-    "correta": 0,
+    "pergunta": "Qual discípulo foi preso com Paulo em Filipos e cantou hinos à meia-noite?",
+    "opcoes": ["Barnabé", "Silas", "Timóteo", "Pedro"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "A Pantera Cor-de-Rosa não tinha um vilão fixo, cada episódio era diferente."
+    "explicacao": "Silas estava preso com Paulo quando Deus enviou um terremoto (Atos 16:25)."
   },
   {
     "id": 50,
-    "pergunta": "Qual era o nome da tartaruga líder das Tartarugas Ninja?",
-    "opcoes": ["Donatello", "Michelangelo", "Leonardo", "Rafael"],
-    "correta": 2,
-    "nivel": "facil",
-    "explicacao": "Leonardo é o líder das Tartarugas Ninja, com a faixa azul e espadas katanas."
+    "pergunta": "Quem era conhecido como o 'profeta chorão'?",
+    "opcoes": ["Ezequiel", "Jeremias", "Isaías", "Oseias"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Jeremias é chamado assim por suas lamentações e lágrimas (Jeremias 9:1)."
   },
   {
     "id": 51,
-    "pergunta": "Qual era o nome do macaco amigo do He-Man que vivia atrapalhando?",
-    "opcoes": ["Orko", "Cringer", "Mentor", "Gloop"],
+    "pergunta": "Quem viu uma escada que chegava ao céu em um sonho?",
+    "opcoes": ["Jacó", "José", "Samuel", "Elias"],
     "correta": 0,
     "nivel": "medio",
-    "explicacao": "Orko era o feiticeiro trapalhão que acompanhava He-Man."
+    "explicacao": "Jacó sonhou com uma escada que ligava a terra ao céu (Gênesis 28:12)."
   },
   {
     "id": 52,
-    "pergunta": "Em Dragon Ball, qual era o nome do mestre baixinho que treinou Goku?",
-    "opcoes": ["Mestre Kame", "Mestre Karin", "Mestre Kaioh", "Yamcha"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Mestre Kame (ou Mestre Roshi) foi o primeiro treinador de Goku."
+    "pergunta": "Qual discípulo foi escolhido para levar o evangelho aos gentios?",
+    "opcoes": ["Pedro", "Paulo", "Tiago", "João"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Paulo foi chamado para ser apóstolo dos gentios (Atos 9:15)."
   },
   {
     "id": 53,
-    "pergunta": "Qual é o nome da protagonista de Kim Possible?",
-    "opcoes": ["Kim", "Shego", "Rufus", "Bonnie"],
+    "pergunta": "Quem foi o rei que teve um sonho com uma estátua feita de vários materiais?",
+    "opcoes": ["Nabucodonosor", "Ciro", "Dario", "Faraó"],
     "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Kim Possible era a adolescente espiã que salvava o mundo."
+    "nivel": "medio",
+    "explicacao": "O rei Nabucodonosor sonhou com a estátua, interpretada por Daniel (Daniel 2)."
   },
   {
     "id": 54,
-    "pergunta": "Qual era o nome do vilão que enfrentava o Inspetor Bugiganga?",
-    "opcoes": ["Dr. Claw", "Dr. Mad", "Dr. Evil", "Dr. Mask"],
-    "correta": 0,
-    "nivel": "medio",
-    "explicacao": "Dr. Claw era o misterioso vilão da série."
+    "pergunta": "Quem pediu a Jesus para andar sobre as águas?",
+    "opcoes": ["João", "Pedro", "André", "Tiago"],
+    "correta": 1,
+    "nivel": "facil",
+    "explicacao": "Pedro andou sobre as águas ao ir ao encontro de Jesus (Mateus 14:29)."
   },
   {
     "id": 55,
-    "pergunta": "Qual é o nome do esquilo que vivia com o Tico?",
-    "opcoes": ["Teco", "Catatau", "Jerry", "Pluto"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "A dupla clássica era Tico e Teco."
+    "pergunta": "Quem foi o profeta que casou com uma prostituta por ordem de Deus?",
+    "opcoes": ["Isaías", "Jeremias", "Oseias", "Malaquias"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "Oseias se casou com Gômer como símbolo do amor de Deus por Israel (Oseias 1:2)."
   },
   {
     "id": 56,
-    "pergunta": "Qual era o nome da super-heroína que dizia 'Laços da Verdade!'?",
-    "opcoes": ["Mulher Maravilha", "She-Ra", "Florzinha", "Docinho"],
-    "correta": 0,
+    "pergunta": "Quem ajudou Jesus a carregar a cruz?",
+    "opcoes": ["José de Arimateia", "Simão Cireneu", "Nicodemos", "Bartimeu"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "A Mulher Maravilha usava o Laço da Verdade como arma."
+    "explicacao": "Simão de Cirene foi forçado a carregar a cruz (Mateus 27:32)."
   },
   {
     "id": 57,
-    "pergunta": "Quem era o dono do gato Garfield?",
-    "opcoes": ["Jon", "Tom", "Jerry", "Fred"],
+    "pergunta": "Quem foi a mulher que se casou com Boaz e se tornou bisavó de Davi?",
+    "opcoes": ["Rute", "Ester", "Ana", "Miriã"],
     "correta": 0,
     "nivel": "facil",
-    "explicacao": "Jon Arbuckle era o dono do Garfield."
+    "explicacao": "Rute, a moabita, se casou com Boaz e foi bisavó do rei Davi (Rute 4:17)."
   },
   {
     "id": 58,
-    "pergunta": "Qual era o nome do amigo nerd do desenho Jimmy Neutron?",
-    "opcoes": ["Carl", "Sheen", "Nick", "Cindy"],
-    "correta": 0,
-    "nivel": "medio",
-    "explicacao": "Carl Wheezer era o amigo nerd e engraçado de Jimmy."
+    "pergunta": "Qual discípulo Jesus chamou de 'rocha'?",
+    "opcoes": ["João", "Pedro", "Tiago", "André"],
+    "correta": 1,
+    "nivel": "facil",
+    "explicacao": "Jesus chamou Simão de Pedro, que significa 'pedra' ou 'rocha' (Mateus 16:18)."
   },
   {
     "id": 59,
-    "pergunta": "Qual é o nome do pato rico que cuidava dos sobrinhos Huguinho, Zezinho e Luisinho?",
-    "opcoes": ["Tio Patinhas", "Donald", "Patolino", "Pato Lucas"],
-    "correta": 0,
+    "pergunta": "Quem teve um encontro com Jesus no caminho de Damasco?",
+    "opcoes": ["Pedro", "Paulo", "Felipe", "Barnabé"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "O tio deles era o famoso Tio Patinhas."
+    "explicacao": "Saulo de Tarso (Paulo) teve um encontro com Jesus no caminho de Damasco (Atos 9:3-5)."
   },
   {
     "id": 60,
-    "pergunta": "Qual era o nome da casa falante que ajudava os protagonistas em Os Impossíveis?",
-    "opcoes": ["Casa dos Impossíveis", "QG", "Impossible HQ", "Base X"],
+    "pergunta": "Qual era o nome do sumo sacerdote quando Jesus foi crucificado?",
+    "opcoes": ["Caifás", "Anás", "Nicodemos", "Gamaliél"],
     "correta": 0,
     "nivel": "medio",
-    "explicacao": "A Casa dos Impossíveis era o quartel-general da equipe."
+    "explicacao": "Caifás era o sumo sacerdote no julgamento e crucificação de Jesus (João 18:13-14)."
   },
   {
     "id": 61,
-    "pergunta": "Qual era o nome do vilão que gritava 'Eu vou pegar você, He-Man!'?",
-    "opcoes": ["Skeletor", "Mumm-Ra", "Gárgamel", "Vingador"],
-    "correta": 0,
+    "pergunta": "Quem foi o primeiro homem a ser criado por Deus?",
+    "opcoes": ["Noé", "Adão", "Abraão", "Moisés"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "O bordão clássico era de Skeletor."
+    "explicacao": "Segundo Gênesis, Adão foi o primeiro homem criado por Deus."
   },
   {
     "id": 62,
-    "pergunta": "Qual era o nome do mordomo dos Batman: Desenho Animado?",
-    "opcoes": ["Alfred", "James", "Higgins", "Arthur"],
+    "pergunta": "Quem foi vendido por seus irmãos e levado ao Egito?",
+    "opcoes": ["José", "Davi", "Isaque", "Jonas"],
     "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Alfred Pennyworth era o mordomo e confidente do Batman."
+    "nivel": "medio",
+    "explicacao": "José foi vendido por seus irmãos e se tornou governador no Egito."
   },
   {
     "id": 63,
-    "pergunta": "Qual era o nome da vilã principal de Carmen Sandiego?",
-    "opcoes": ["Carmen", "Shego", "Madame Rouge", "Hera Venenosa"],
+    "pergunta": "Quem construiu a arca para sobreviver ao dilúvio?",
+    "opcoes": ["Noé", "Moisés", "Elias", "Abraão"],
     "correta": 0,
-    "nivel": "medio",
-    "explicacao": "Carmen Sandiego era a própria vilã e protagonista do desenho."
+    "nivel": "facil",
+    "explicacao": "Noé construiu a arca conforme instruções de Deus."
   },
   {
     "id": 64,
-    "pergunta": "Quem era o dono da gata Hello Kitty?",
-    "opcoes": ["Ela não tem dono", "Uma menina chamada Cathy", "Uma menina chamada Melody", "Uma menina chamada Mimmy"],
+    "pergunta": "Qual profeta foi engolido por um grande peixe?",
+    "opcoes": ["Jonas", "Isaías", "Jeremias", "Ezequiel"],
     "correta": 0,
     "nivel": "facil",
-    "explicacao": "Hello Kitty é retratada como uma personagem independente, não tem dono."
+    "explicacao": "Jonas foi engolido por um peixe quando fugia da ordem de Deus."
   },
   {
     "id": 65,
-    "pergunta": "Qual era o nome do cachorro branco do desenho Johnny Bravo?",
-    "opcoes": ["Brutus", "Whitey", "Scooby", "Não tinha"],
-    "correta": 3,
+    "pergunta": "Quem libertou o povo de Israel da escravidão no Egito?",
+    "opcoes": ["Davi", "Moisés", "Josué", "Samuel"],
+    "correta": 1,
     "nivel": "medio",
-    "explicacao": "Johnny Bravo não tinha cachorro fixo, o desenho focava nele mesmo."
+    "explicacao": "Moisés guiou o povo de Israel para fora do Egito pelo poder de Deus."
   },
   {
     "id": 66,
-    "pergunta": "Quem era o vilão principal de DuckTales?",
-    "opcoes": ["Patacôncio", "Patolino", "Donald", "Gavião Arqueiro"],
-    "correta": 0,
-    "nivel": "medio",
-    "explicacao": "Patacôncio era o rival do Tio Patinhas em DuckTales."
+    "pergunta": "Quem matou Golias com uma funda e uma pedra?",
+    "opcoes": ["Saul", "Salomão", "Davi", "Sansão"],
+    "correta": 2,
+    "nivel": "facil",
+    "explicacao": "O jovem Davi derrotou o gigante Golias com uma funda e uma pedra."
   },
   {
     "id": 67,
-    "pergunta": "Qual era o nome da pedra que dava poderes em Capitão Planeta?",
-    "opcoes": ["Cristal", "Anel", "Planeta", "Eco"],
-    "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Os cinco jovens usavam anéis mágicos para invocar o Capitão Planeta."
+    "pergunta": "Quem foi lançado na cova dos leões por orar a Deus?",
+    "opcoes": ["Daniel", "Elias", "Josué", "Neemias"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "Daniel foi lançado na cova dos leões, mas Deus o livrou."
   },
   {
     "id": 68,
-    "pergunta": "Qual era o bordão clássico do Máskara?",
-    "opcoes": ["Ssssssssmokin’!", "Yabba Dabba Doo!", "Cowabunga!", "Isso, isso, isso!"],
-    "correta": 0,
+    "pergunta": "Qual discípulo negou Jesus três vezes?",
+    "opcoes": ["João", "Pedro", "Tiago", "Tomé"],
+    "correta": 1,
     "nivel": "facil",
-    "explicacao": "Quando colocava a máscara, ele dizia 'Ssssssssmokin’!'."
+    "explicacao": "Pedro negou Jesus três vezes antes do galo cantar."
   },
   {
     "id": 69,
-    "pergunta": "Qual era o nome do protagonista do desenho Samurai X?",
-    "opcoes": ["Kenshin", "Rurouni", "Himura", "Shinta"],
-    "correta": 0,
-    "nivel": "medio",
-    "explicacao": "O protagonista era Kenshin Himura, conhecido como Samurai X."
+    "pergunta": "Quem foi a mãe de Jesus?",
+    "opcoes": ["Marta", "Maria", "Isabel", "Ana"],
+    "correta": 1,
+    "nivel": "facil",
+    "explicacao": "Maria foi escolhida por Deus para ser a mãe de Jesus."
   },
   {
     "id": 70,
-    "pergunta": "Qual era o nome do cavalo falante que aparecia em Hanna-Barbera?",
-    "opcoes": ["Pepe Legal", "Bambam", "Quick Draw McGraw", "BoJack"],
+    "pergunta": "Quem traiu Jesus por 30 moedas de prata?",
+    "opcoes": ["Pedro", "João", "Judas Iscariotes", "André"],
     "correta": 2,
-    "nivel": "medio",
-    "explicacao": "Quick Draw McGraw era o cavalo xerife da Hanna-Barbera."
+    "nivel": "facil",
+    "explicacao": "Judas Iscariotes traiu Jesus por 30 moedas de prata."
   },
   {
     "id": 71,
-    "pergunta": "Qual era o nome do cachorro do desenho Corrida Maluca que ria esquisito?",
-    "opcoes": ["Muttley", "Pateta", "Catatau", "Jerry"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "Muttley era o cachorro do Dick Vigarista, famoso por sua risada."
+    "pergunta": "Qual era a profissão de Mateus antes de seguir Jesus?",
+    "opcoes": ["Carpinteiro", "Pescador", "Publicano", "Soldado"],
+    "correta": 2,
+    "nivel": "medio",
+    "explicacao": "Mateus era cobrador de impostos (publicano)."
   },
   {
     "id": 72,
-    "pergunta": "Qual era o nome da personagem ruiva de Scooby-Doo?",
-    "opcoes": ["Velma", "Daphne", "Patty", "Wilma"],
+    "pergunta": "Quem foi o homem mais forte da Bíblia?",
+    "opcoes": ["Golias", "Sansão", "Saul", "Esaú"],
     "correta": 1,
-    "nivel": "facil",
-    "explicacao": "Daphne era a integrante ruiva da turma."
+    "nivel": "medio",
+    "explicacao": "Sansão recebeu de Deus uma força sobrenatural."
   },
   {
     "id": 73,
-    "pergunta": "Qual era o nome da série com uma vaca e um frango?",
-    "opcoes": ["Uma Vaca e Um Frango", "Animaniacs", "Coragem", "Billy e Mandy"],
-    "correta": 0,
-    "nivel": "facil",
-    "explicacao": "O desenho se chamava literalmente 'Uma Vaca e Um Frango'."
+    "pergunta": "Quem foi chamado 'amigo de Deus'?",
+    "opcoes": ["Noé", "Abraão", "Jacó", "Isaac"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Abraão é conhecido como o amigo de Deus."
   },
   {
     "id": 74,
-    "pergunta": "Qual era o nome do personagem que gritava 'Eu tenho a força!'?",
-    "opcoes": ["He-Man", "Lion-O", "Capitão Planeta", "Superman"],
+    "pergunta": "Quem foi lançado em uma fornalha ardente e não morreu?",
+    "opcoes": ["Sadraque, Mesaque e Abede-Nego", "Pedro e João", "Paulo e Silas", "José e Benjamin"],
     "correta": 0,
-    "nivel": "facil",
-    "explicacao": "He-Man dizia 'Eu tenho a força!' ao se transformar."
+    "nivel": "medio",
+    "explicacao": "Sadraque, Mesaque e Abede-Nego foram salvos por Deus na fornalha."
   },
   {
     "id": 75,
-    "pergunta": "Qual era o nome do vilão inimigo das Tartarugas Ninja que usava armadura metálica?",
-    "opcoes": ["Destruidor", "Krang", "Shredder", "Baxter"],
-    "correta": 2,
-    "nivel": "medio",
-    "explicacao": "Shredder, conhecido como Destruidor, era o vilão principal."
+    "pergunta": "Qual rei foi conhecido por sua grande sabedoria?",
+    "opcoes": ["Salomão", "Davi", "Saul", "Ezequias"],
+    "correta": 0,
+    "nivel": "facil",
+    "explicacao": "Salomão pediu sabedoria a Deus e se tornou o homem mais sábio."
   },
   {
     "id": 76,
-    "pergunta": "Qual era o nome da tartaruga ninja que usava máscara laranja?",
-    "opcoes": ["Donatello", "Leonardo", "Rafael", "Michelangelo"],
-    "correta": 3,
-    "nivel": "facil",
-    "explicacao": "Michelangelo usava a máscara laranja e adorava pizza."
+    "pergunta": "Quem foi o primeiro mártir cristão?",
+    "opcoes": ["Tiago", "Estevão", "Paulo", "Pedro"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Estevão foi o primeiro a morrer por testemunhar Cristo."
   },
   {
     "id": 77,
-    "pergunta": "Qual era o nome do peixe-palhaço de Procurando Nemo?",
-    "opcoes": ["Nemo", "Dory", "Marlin", "Bruce"],
+    "pergunta": "Quem foi arrebatado ao céu em um carro de fogo?",
+    "opcoes": ["Elias", "Enoque", "Moisés", "Josué"],
     "correta": 0,
-    "nivel": "facil",
-    "explicacao": "O protagonista era o peixinho Nemo."
+    "nivel": "dificil",
+    "explicacao": "Elias foi levado ao céu em um carro de fogo."
   },
   {
     "id": 78,
-    "pergunta": "Qual era o nome do desenho onde crianças jogavam cartas chamadas Duel Monsters?",
-    "opcoes": ["Yu-Gi-Oh!", "Digimon", "Pokémon", "Beyblade"],
-    "correta": 0,
+    "pergunta": "Quem escreveu a maioria das cartas do Novo Testamento?",
+    "opcoes": ["Pedro", "Tiago", "Paulo", "João"],
+    "correta": 2,
     "nivel": "medio",
-    "explicacao": "Yu-Gi-Oh! era sobre os duelos de cartas mágicas."
+    "explicacao": "O apóstolo Paulo escreveu a maioria das cartas."
   },
   {
     "id": 79,
-    "pergunta": "Qual era o nome do robô azul amigo do menino Nobita?",
-    "opcoes": ["Astro Boy", "Doraemon", "Voltron", "Mega Man"],
-    "correta": 1,
+    "pergunta": "Qual discípulo foi conhecido como 'o incrédulo'?",
+    "opcoes": ["Pedro", "João", "Tomé", "André"],
+    "correta": 2,
     "nivel": "facil",
-    "explicacao": "Doraemon era o gato robô azul que ajudava Nobita."
+    "explicacao": "Tomé ficou conhecido como o incrédulo por duvidar da ressurreição de Jesus."
   },
   {
     "id": 80,
-    "pergunta": "Qual era o bordão clássico do Patolino?",
-    "opcoes": ["Você é desprezível!", "Que que há, velhinho?", "Yabba Dabba Doo!", "Smokin’!"],
+    "pergunta": "Qual rei lançou Daniel na cova dos leões?",
+    "opcoes": ["Nabucodonosor", "Dario", "Ciro", "Saul"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "O rei Dario lançou Daniel na cova dos leões."
+  },
+  {
+    "id": 81,
+    "pergunta": "Quem derrubou os muros de Jericó?",
+    "opcoes": ["Josué e o povo de Israel", "Moisés e Arão", "Davi e seus valentes", "Salomão"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "Josué e o povo cercaram Jericó até que seus muros caíram."
+  },
+  {
+    "id": 82,
+    "pergunta": "Quem foi o pai de João Batista?",
+    "opcoes": ["José", "Zacarias", "Simão", "Caifás"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "Zacarias foi o pai de João Batista."
+  },
+  {
+    "id": 83,
+    "pergunta": "Quem pediu a cabeça de João Batista?",
+    "opcoes": ["Herodias", "Salomé", "Pilatos", "Herodes"],
+    "correta": 1,
+    "nivel": "dificil",
+    "explicacao": "Salomé pediu a cabeça de João Batista a pedido de sua mãe Herodias."
+  },
+  {
+    "id": 84,
+    "pergunta": "Quem escreveu o Apocalipse?",
+    "opcoes": ["Pedro", "João", "Paulo", "Tiago"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "O apóstolo João escreveu o livro do Apocalipse."
+  },
+  {
+    "id": 85,
+    "pergunta": "Quem foi escolhido para substituir Judas Iscariotes?",
+    "opcoes": ["Barnabé", "Matias", "Timóteo", "Silas"],
+    "correta": 1,
+    "nivel": "dificil",
+    "explicacao": "Matias foi escolhido pelos apóstolos para substituir Judas."
+  },
+  {
+    "id": 86,
+    "pergunta": "Quem interpretava os sonhos do faraó no Egito?",
+    "opcoes": ["Daniel", "José", "Moisés", "Arão"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "José interpretava os sonhos revelados por Deus."
+  },
+  {
+    "id": 87,
+    "pergunta": "Quem foi lançado em uma cisterna pelos irmãos?",
+    "opcoes": ["José", "Jeremias", "Abel", "Esaú"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "José foi jogado em uma cisterna antes de ser vendido."
+  },
+  {
+    "id": 88,
+    "pergunta": "Quem foi a mulher que se tornou rainha da Pérsia?",
+    "opcoes": ["Ester", "Rute", "Débora", "Maria Madalena"],
     "correta": 0,
     "nivel": "facil",
-    "explicacao": "Patolino sempre dizia 'Você é desprezível!'."
+    "explicacao": "Ester se tornou rainha e salvou o povo judeu."
+  },
+  {
+    "id": 89,
+    "pergunta": "Quem subiu no sicômoro para ver Jesus passar?",
+    "opcoes": ["Nicodemos", "Bartimeu", "Zaqueu", "Cornélio"],
+    "correta": 2,
+    "nivel": "facil",
+    "explicacao": "Zaqueu subiu em uma árvore para ver Jesus."
+  },
+  {
+    "id": 90,
+    "pergunta": "Quem foi o primeiro rei de Israel?",
+    "opcoes": ["Saul", "Davi", "Salomão", "Josias"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "Saul foi o primeiro rei escolhido para governar Israel."
+  },
+  {
+    "id": 91,
+    "pergunta": "Segundo a teologia cristã, qual é a principal consequência do pecado?",
+    "opcoes": ["Doença", "Morte espiritual", "Pobreza", "Tristeza"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "A Bíblia ensina que o pecado gera a morte espiritual e separação de Deus (Romanos 6:23)."
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual é o significado da palavra 'Evangelho'?",
+    "opcoes": ["Boa notícia", "Livro sagrado", "História antiga", "Canto espiritual"],
+    "correta": 0,
+    "nivel": "facil",
+    "explicacao": "Evangelho significa 'boa notícia', referindo-se à salvação em Cristo."
+  },
+  {
+    "id": 93,
+    "pergunta": "Quem é considerado o mediador entre Deus e os homens?",
+    "opcoes": ["Moisés", "Pedro", "Jesus Cristo", "Paulo"],
+    "correta": 2,
+    "nivel": "facil",
+    "explicacao": "1 Timóteo 2:5 afirma que Jesus Cristo é o único mediador entre Deus e os homens."
+  },
+  {
+    "id": 94,
+    "pergunta": "Qual é a doutrina cristã que afirma que Deus existe em três pessoas distintas, mas é um só?",
+    "opcoes": ["Unicidade", "Trindade", "Cristologia", "Escatologia"],
+    "correta": 1,
+    "nivel": "medio",
+    "explicacao": "A Trindade ensina que Deus é Pai, Filho e Espírito Santo, três pessoas e um só Deus."
+  },
+  {
+    "id": 95,
+    "pergunta": "Segundo Efésios 2:8-9, a salvação vem por meio de quê?",
+    "opcoes": ["Obras", "Fé", "Dinheiro", "Jejum"],
+    "correta": 1,
+    "nivel": "facil",
+    "explicacao": "A salvação é pela graça de Deus, mediante a fé, e não pelas obras."
+  },
+  {
+    "id": 96,
+    "pergunta": "O que significa a expressão 'nascer de novo' em João 3?",
+    "opcoes": ["Reencarnar", "Mudar de religião", "Ser batizado nas águas", "Receber uma nova vida espiritual em Cristo"],
+    "correta": 3,
+    "nivel": "medio",
+    "explicacao": "Jesus explicou a Nicodemos que nascer de novo é receber uma nova vida espiritual pelo Espírito Santo."
+  },
+  {
+    "id": 97,
+    "pergunta": "Qual é o fruto do Espírito segundo Gálatas 5:22?",
+    "opcoes": ["Amor, alegria, paz, paciência, bondade, fidelidade, mansidão e domínio próprio", "Milagres e profecias", "Riqueza e saúde", "Jejum e oração"],
+    "correta": 0,
+    "nivel": "facil",
+    "explicacao": "O fruto do Espírito são as virtudes cristãs listadas em Gálatas 5:22-23."
+  },
+  {
+    "id": 98,
+    "pergunta": "Qual é a principal missão da igreja segundo Mateus 28:19-20?",
+    "opcoes": ["Construir templos", "Guardar tradições", "Fazer discípulos de todas as nações", "Acumular bens"],
+    "correta": 2,
+    "nivel": "facil",
+    "explicacao": "O 'Ide' de Jesus ordena à igreja fazer discípulos e ensinar a obedecer seus mandamentos."
+  },
+  {
+    "id": 99,
+    "pergunta": "Qual é a esperança final do cristão segundo Apocalipse 21?",
+    "opcoes": ["A Nova Jerusalém", "Riqueza eterna", "Reino terreno", "Sabedoria sem fim"],
+    "correta": 0,
+    "nivel": "medio",
+    "explicacao": "A esperança cristã é a Nova Jerusalém, onde Deus habitará com seu povo para sempre."
   },
   {
     "id": 100,
-    "pergunta": "Qual é o nome do robô do filme 'O Exterminador do Futuro'?",
-    "opcoes": ["R2-D2", "C-3PO", "T-800", "Wall-E"],
-    "correta": 2,
-    "explicacao": "O T-800 é o modelo de ciborgue vivido por Arnold Schwarzenegger na franquia 'O Exterminador do Futuro'."
-  },
-  {
-    "id": 101,
-    "pergunta": "Qual é o nome do brinquedo cowboy em 'Toy Story'?",
-    "opcoes": ["Buzz", "Woody", "Andy", "Jessie"],
-    "correta": 1,
-    "explicacao": "Woody é o brinquedo cowboy líder do grupo em 'Toy Story'."
-  },
-  {
-    "id": 102,
-    "pergunta": "Em 'Titanic', qual é o nome do personagem de Leonardo DiCaprio?",
-    "opcoes": ["Jack Dawson", "Mark Spencer", "Luke Harris", "John Carter"],
-    "correta": 0,
-    "explicacao": "Leonardo DiCaprio interpretou Jack Dawson em 'Titanic'."
-  },
-  {
-    "id": 103,
-    "pergunta": "No filme 'Harry Potter', quem é o diretor de Hogwarts?",
-    "opcoes": ["Dumbledore", "Snape", "Voldemort", "Sirius Black"],
-    "correta": 0,
-    "explicacao": "Alvo Dumbledore é o diretor de Hogwarts na maior parte da saga."
-  },
-  {
-    "id": 104,
-    "pergunta": "Qual é o famoso bordão de Buzz Lightyear em 'Toy Story'?",
-    "opcoes": ["Ao infinito e além!", "Eu sou seu pai!", "Hakuna Matata", "Que a Força esteja com você"],
-    "correta": 0,
-    "explicacao": "Buzz Lightyear sempre repete seu bordão: 'Ao infinito e além!'."
-  },
-  {
-    "id": 105,
-    "pergunta": "Quem disse a frase 'Eu sou seu pai' em 'Star Wars'?",
-    "opcoes": ["Luke Skywalker", "Obi-Wan Kenobi", "Darth Vader", "Yoda"],
-    "correta": 2,
-    "explicacao": "Darth Vader revela a Luke Skywalker a famosa frase: 'Eu sou seu pai'."
-  },
-  {
-    "id": 106,
-    "pergunta": "Qual é o nome do leão protagonista em 'O Rei Leão'?",
-    "opcoes": ["Mufasa", "Scar", "Simba", "Nala"],
-    "correta": 2,
-    "explicacao": "Simba é o filhote que cresce para se tornar o rei em 'O Rei Leão'."
-  },
-  {
-    "id": 107,
-    "pergunta": "No filme 'De Volta para o Futuro', qual é o nome do cientista?",
-    "opcoes": ["Doc Brown", "Dr. Who", "Professor X", "Dr. Strange"],
-    "correta": 0,
-    "explicacao": "O cientista é o excêntrico Doc Brown, criador da máquina do tempo DeLorean."
-  },
-  {
-    "id": 108,
-    "pergunta": "Em 'Jurassic Park', que tipo de dinossauro é o mais famoso?",
-    "opcoes": ["Triceratops", "Velociraptor", "Tiranossauro Rex", "Brontossauro"],
-    "correta": 2,
-    "explicacao": "O Tiranossauro Rex é a estrela principal em 'Jurassic Park'."
-  },
-  {
-    "id": 109,
-    "pergunta": "No filme 'Matrix', qual pílula Neo escolhe tomar?",
-    "opcoes": ["Azul", "Vermelha", "Verde", "Amarela"],
-    "correta": 1,
-    "explicacao": "Neo escolhe a pílula vermelha para conhecer a verdade sobre a Matrix."
-  },
-  {
-    "id": 110,
-    "pergunta": "Qual é o nome do peixe-palhaço em 'Procurando Nemo'?",
-    "opcoes": ["Nemo", "Dory", "Marlin", "Bruce"],
-    "correta": 0,
-    "explicacao": "O jovem peixe-palhaço se chama Nemo, protagonista do filme."
-  },
-  {
-    "id": 111,
-    "pergunta": "Em 'Os Caça-Fantasmas', qual é a cor do logotipo?",
-    "opcoes": ["Azul", "Verde", "Vermelho", "Amarelo"],
-    "correta": 2,
-    "explicacao": "O logotipo dos Caça-Fantasmas tem o fantasma com o símbolo de proibido em vermelho."
-  },
-  {
-    "id": 112,
-    "pergunta": "Qual é o super-herói que grita 'Shazam!' para se transformar?",
-    "opcoes": ["Flash", "Capitão Marvel", "Shazam", "Thor"],
-    "correta": 2,
-    "explicacao": "O jovem Billy Batson se transforma em Shazam ao gritar a palavra mágica."
-  },
-  {
-    "id": 113,
-    "pergunta": "No filme 'Homem-Aranha', qual é o verdadeiro nome do herói?",
-    "opcoes": ["Clark Kent", "Tony Stark", "Peter Parker", "Bruce Wayne"],
-    "correta": 2,
-    "explicacao": "O Homem-Aranha é Peter Parker, criado por Stan Lee e Steve Ditko."
-  },
-  {
-    "id": 114,
-    "pergunta": "Quem é o vilão de 'Pantera Negra'?",
-    "opcoes": ["Killmonger", "Thanos", "Ultron", "Loki"],
-    "correta": 0,
-    "explicacao": "Erik Killmonger é o principal vilão de 'Pantera Negra'."
-  },
-  {
-    "id": 115,
-    "pergunta": "Em 'Frozen', qual é o nome da irmã de Elsa?",
-    "opcoes": ["Anna", "Moana", "Rapunzel", "Ariel"],
-    "correta": 0,
-    "explicacao": "Anna é a irmã mais nova de Elsa em 'Frozen'."
-  },
-  {
-    "id": 116,
-    "pergunta": "Qual é o nome do ogro verde protagonista de uma famosa animação?",
-    "opcoes": ["Shrek", "Fiona", "Burro", "Hulk"],
-    "correta": 0,
-    "explicacao": "O ogro verde é Shrek, personagem principal da animação da DreamWorks."
-  },
-  {
-    "id": 117,
-    "pergunta": "Em 'A Bela e a Fera', o que Bela adora fazer?",
-    "opcoes": ["Cantar", "Caçar", "Ler livros", "Dançar"],
-    "correta": 2,
-    "explicacao": "Bela adora ler livros e é conhecida por seu amor pela leitura."
-  },
-  {
-    "id": 118,
-    "pergunta": "No filme 'Gladiador', quem é o ator que interpreta Maximus?",
-    "opcoes": ["Mel Gibson", "Russell Crowe", "Brad Pitt", "Tom Cruise"],
-    "correta": 1,
-    "explicacao": "Russell Crowe interpreta Maximus em 'Gladiador'."
-  },
-  {
-    "id": 119,
-    "pergunta": "Em 'Homens de Preto', qual é a cor dos ternos usados pelos agentes?",
-    "opcoes": ["Cinza", "Azul", "Preto", "Branco"],
-    "correta": 2,
-    "explicacao": "Os agentes J e K usam ternos pretos característicos no filme 'Homens de Preto'."
-  },
-  {
-    "id": 237,
-    "pergunta": "Quem protagoniza 'Todo Mundo em Pânico'?",
-    "opcoes": ["Shawn Wayans e Marlon Wayans", "Ben Stiller e Owen Wilson", "Adam Sandler e Kevin James", "Jim Carrey e Jeff Daniels"],
-    "correta": 0,
-    "explicacao": "Shawn e Marlon Wayans são os protagonistas de 'Todo Mundo em Pânico'."
-  },
-  {
-    "id": 238,
-    "pergunta": "Em 'Loucas por Amor, Viciadas em Dinheiro', qual é o plano das protagonistas?",
-    "opcoes": ["Assaltar um carro-forte", "Ganhar na loteria", "Se casar com milionários", "Abrir uma loja"],
-    "correta": 0,
-    "explicacao": "Elas tentam roubar um carro-forte no filme."
-  },
-  {
-    "id": 239,
-    "pergunta": "Em 'Shrek', qual é o nome do burro falante?",
-    "opcoes": ["Burro", "Domkey", "Asno", "Mula"],
-    "correta": 0,
-    "explicacao": "O companheiro de Shrek é simplesmente chamado de Burro."
-  },
-  {
-    "id": 300,
-    "pergunta": "Qual é o nome verdadeiro do Homem de Ferro?",
-    "opcoes": ["Bruce Wayne", "Tony Stark", "Steve Rogers", "Peter Parker"],
-    "correta": 1,
-    "explicacao": "O Homem de Ferro é Tony Stark, um gênio bilionário e inventor."
-  },
-  {
-    "id": 301,
-    "pergunta": "Qual herói da DC é conhecido como 'Homem de Aço'?",
-    "opcoes": ["Batman", "Superman", "Flash", "Lanterna Verde"],
-    "correta": 1,
-    "explicacao": "Superman é conhecido como o 'Homem de Aço'."
-  },
-  {
-    "id": 302,
-    "pergunta": "Qual vingador carrega um escudo feito de vibranium?",
-    "opcoes": ["Thor", "Capitão América", "Hulk", "Pantera Negra"],
-    "correta": 1,
-    "explicacao": "O Capitão América usa um escudo de vibranium, vindo de Wakanda."
-  },
-  {
-    "id": 303,
-    "pergunta": "Qual membro da Liga da Justiça é o Cavaleiro das Trevas?",
-    "opcoes": ["Aquaman", "Flash", "Batman", "Superman"],
-    "correta": 2,
-    "explicacao": "Batman é chamado de Cavaleiro das Trevas e protege Gotham."
-  },
-  {
-    "id": 304,
-    "pergunta": "Quem é o Deus do Trovão entre os Vingadores?",
-    "opcoes": ["Thor", "Loki", "Hulk", "Capitão América"],
-    "correta": 0,
-    "explicacao": "Thor é o Deus do Trovão, vindo de Asgard."
-  },
-  {
-    "id": 305,
-    "pergunta": "Qual heroína da DC carrega o Laço da Verdade?",
-    "opcoes": ["Mulher-Maravilha", "Viúva Negra", "Capitã Marvel", "Supergirl"],
-    "correta": 0,
-    "explicacao": "A Mulher-Maravilha usa o Laço da Verdade como arma principal."
-  },
-  {
-    "id": 306,
-    "pergunta": "Quem é o vingador gigante e verde que fala 'Hulk esmaga!'?",
-    "opcoes": ["Thor", "Homem de Ferro", "Hulk", "Pantera Negra"],
-    "correta": 2,
-    "explicacao": "Hulk é conhecido pela sua força e pela frase 'Hulk esmaga!'."
-  },
-  {
-    "id": 307,
-    "pergunta": "Qual é o nome verdadeiro do Flash?",
-    "opcoes": ["Barry Allen", "Bruce Wayne", "Hal Jordan", "Arthur Curry"],
-    "correta": 0,
-    "explicacao": "O Flash mais famoso é Barry Allen, o velocista escarlate."
-  },
-  {
-    "id": 308,
-    "pergunta": "Quem lidera os Vingadores com a frase 'Avante, Vingadores!'?",
-    "opcoes": ["Thor", "Homem de Ferro", "Capitão América", "Hulk"],
-    "correta": 2,
-    "explicacao": "Capitão América é o líder clássico dos Vingadores."
-  },
-  {
-    "id": 309,
-    "pergunta": "Qual herói da Liga da Justiça é conhecido como o Rei de Atlântida?",
-    "opcoes": ["Aquaman", "Lanterna Verde", "Cyborg", "Flash"],
-    "correta": 0,
-    "explicacao": "Aquaman é o Rei de Atlântida e protetor dos mares."
-  },
-  {
-    "id": 310,
-    "pergunta": "Qual vingadora é especialista em artes marciais e espionagem?",
-    "opcoes": ["Viúva Negra", "Feiticeira Escarlate", "Capitã Marvel", "Gamora"],
-    "correta": 0,
-    "explicacao": "Viúva Negra é a espiã e lutadora da equipe dos Vingadores."
-  },
-  {
-    "id": 311,
-    "pergunta": "Quem é o guardião intergaláctico da Liga da Justiça que usa um anel de poder?",
-    "opcoes": ["Flash", "Lanterna Verde", "Cyborg", "Batman"],
-    "correta": 1,
-    "explicacao": "O Lanterna Verde usa um anel capaz de criar qualquer construção de energia."
-  },
-  {
-    "id": 312,
-    "pergunta": "Qual vingador é conhecido como o arqueiro da equipe?",
-    "opcoes": ["Gavião Arqueiro", "Loki", "Homem de Ferro", "Pantera Negra"],
-    "correta": 0,
-    "explicacao": "Clint Barton é o Gavião Arqueiro, mestre com o arco e flecha."
-  },
-  {
-    "id": 313,
-    "pergunta": "Qual herói da DC é metade homem e metade máquina?",
-    "opcoes": ["Cyborg", "Aquaman", "Flash", "Lanterna Verde"],
-    "correta": 0,
-    "explicacao": "Cyborg é parte humano e parte máquina, membro da Liga da Justiça."
-  },
-  {
-    "id": 314,
-    "pergunta": "Qual é o herói africano da Marvel, rei de Wakanda?",
-    "opcoes": ["Pantera Negra", "Falcão", "Gavião Arqueiro", "Homem de Ferro"],
-    "correta": 0,
-    "explicacao": "T’Challa é o Pantera Negra, rei de Wakanda."
-  },
-  {
-    "id": 315,
-    "pergunta": "Qual é a heroína mais poderosa da Liga da Justiça?",
-    "opcoes": ["Mulher-Maravilha", "Batgirl", "Supergirl", "Zatanna"],
-    "correta": 0,
-    "explicacao": "Mulher-Maravilha é a heroína mais famosa e poderosa da Liga."
-  },
-  {
-    "id": 316,
-    "pergunta": "Quem é o mago dos Vingadores, guardião do tempo?",
-    "opcoes": ["Doutor Estranho", "Loki", "Thor", "Visão"],
-    "correta": 0,
-    "explicacao": "Doutor Estranho é o Mago Supremo e controla o tempo com o Olho de Agamotto."
-  },
-  {
-    "id": 317,
-    "pergunta": "Qual herói da Liga da Justiça tem como fraqueza a kryptonita?",
-    "opcoes": ["Batman", "Aquaman", "Superman", "Flash"],
-    "correta": 2,
-    "explicacao": "Superman perde seus poderes quando exposto à kryptonita."
-  },
-  {
-    "id": 318,
-    "pergunta": "Qual androide vingador tem uma Joia do Infinito em sua testa?",
-    "opcoes": ["Visão", "Ultron", "Homem de Ferro", "Gavião Arqueiro"],
-    "correta": 0,
-    "explicacao": "Visão tem a Joia da Mente incrustada em sua testa."
-  },
-  {
-    "id": 319,
-    "pergunta": "Quem é o milionário da Liga da Justiça que usa tecnologia para lutar contra o crime?",
-    "opcoes": ["Aquaman", "Superman", "Batman", "Lanterna Verde"],
-    "correta": 2,
-    "explicacao": "Batman é Bruce Wayne, milionário que combate o crime com tecnologia."
-  },
-  {
-    "id": 320,
-    "pergunta": "Qual vingadora tem poderes de alterar a realidade?",
-    "opcoes": ["Feiticeira Escarlate", "Viúva Negra", "Gamora", "Nebulosa"],
-    "correta": 0,
-    "explicacao": "Feiticeira Escarlate pode manipular a realidade com seus poderes mágicos."
-  },
-  {
-    "id": 321,
-    "pergunta": "Qual é o nome verdadeiro do Aquaman?",
-    "opcoes": ["Barry Allen", "Arthur Curry", "Hal Jordan", "Victor Stone"],
-    "correta": 1,
-    "explicacao": "O verdadeiro nome do Aquaman é Arthur Curry."
-  },
-  {
-    "id": 322,
-    "pergunta": "Qual vingador é conhecido como 'o gigante esmeralda'?",
-    "opcoes": ["Thor", "Hulk", "Visão", "Pantera Negra"],
-    "correta": 1,
-    "explicacao": "Hulk é chamado de gigante esmeralda por sua cor verde."
-  },
-  {
-    "id": 323,
-    "pergunta": "Quem é o velocista da Liga da Justiça?",
-    "opcoes": ["Flash", "Superman", "Cyborg", "Batman"],
-    "correta": 0,
-    "explicacao": "Flash é o velocista escarlate da DC."
-  },
-  {
-    "id": 324,
-    "pergunta": "Qual vingador é conhecido como 'o Deus da tecnologia'?",
-    "opcoes": ["Visão", "Homem de Ferro", "Capitão América", "Gavião Arqueiro"],
-    "correta": 1,
-    "explicacao": "Tony Stark, o Homem de Ferro, é visto como o gênio da tecnologia."
-  },
-  {
-    "id": 325,
-    "pergunta": "Qual heroína da Liga da Justiça é amazona?",
-    "opcoes": ["Mulher-Maravilha", "Supergirl", "Batgirl", "Zatanna"],
-    "correta": 0,
-    "explicacao": "A Mulher-Maravilha é amazona, vinda da ilha de Themyscira."
-  },
-  {
-    "id": 326,
-    "pergunta": "Qual vingador também é chamado de 'Deus do Trovão'?",
-    "opcoes": ["Loki", "Thor", "Hulk", "Visão"],
-    "correta": 1,
-    "explicacao": "Thor é o Deus do Trovão e membro dos Vingadores."
-  },
-  {
-    "id": 327,
-    "pergunta": "Qual herói da Liga da Justiça é conhecido por ser detetive?",
-    "opcoes": ["Flash", "Batman", "Aquaman", "Lanterna Verde"],
-    "correta": 1,
-    "explicacao": "Batman é considerado o maior detetive do mundo."
-  },
-  {
-    "id": 328,
-    "pergunta": "Quem é o vingador que usa o traje de ferro Mark I até o Mark LXXXV?",
-    "opcoes": ["Capitão América", "Hulk", "Homem de Ferro", "Visão"],
-    "correta": 2,
-    "explicacao": "Tony Stark criou várias armaduras do Homem de Ferro, numeradas de Mark I até Mark 85."
-  },
-  {
-    "id": 329,
-    "pergunta": "Qual é o símbolo do Superman em seu peito?",
-    "opcoes": ["Um morcego", "Uma águia", "Um S", "Um raio"],
-    "correta": 2,
-    "explicacao": "O Superman usa um 'S' no peito, símbolo da esperança em Krypton."
-  },
-  {
-    "id": 241,
-    "pergunta": "Qual é o verdadeiro nome do vilão Darkseid, governante de Apokolips, inimigo da Liga da Justiça?",
-    "opcoes": ["Uxas", "Orion", "Kalibak", "Steppenwolf"],
-    "correta": 0,
-    "explicacao": "Darkseid nasceu como Uxas, antes de assumir o trono de Apokolips."
-  },
-  {
-    "id": 242,
-    "pergunta": "Em qual HQ surgiu pela primeira vez a equipe Vingadores?",
-    "opcoes": ["Avengers #1 (1963)", "Tales of Suspense #39 (1963)", "Journey into Mystery #83 (1962)", "Fantastic Four #1 (1961)"],
-    "correta": 0,
-    "explicacao": "Os Vingadores surgiram na revista Avengers #1 em 1963, criada por Stan Lee e Jack Kirby."
-  },
-  {
-    "id": 243,
-    "pergunta": "Qual é a principal fraqueza do Caçador de Marte (J'onn J'onzz), membro da Liga da Justiça?",
-    "opcoes": ["Água", "Som", "Fogo", "Radiação"],
-    "correta": 2,
-    "explicacao": "O Caçador de Marte tem grande vulnerabilidade ao fogo, apesar de seus poderes incríveis."
-  },
-  {
-    "id": 244,
-    "pergunta": "Quem foi o primeiro herói da Marvel a ser adaptado para uma série live-action de TV?",
-    "opcoes": ["Hulk", "Homem-Aranha", "Capitão América", "Thor"],
-    "correta": 0,
-    "explicacao": "O Incrível Hulk ganhou sua famosa série de TV em 1978, estrelada por Bill Bixby e Lou Ferrigno."
-  },
-  {
-    "id": 245,
-    "pergunta": "Qual desses Lanternas Verdes foi membro fundador da Liga da Justiça na versão clássica dos quadrinhos?",
-    "opcoes": ["John Stewart", "Guy Gardner", "Hal Jordan", "Kyle Rayner"],
-    "correta": 2,
-    "explicacao": "Hal Jordan foi o Lanterna Verde que integrou a primeira formação da Liga da Justiça."
-  },
-  {
-    "id": 246,
-    "pergunta": "Qual vilão já conseguiu quebrar a coluna do Batman em uma famosa HQ?",
-    "opcoes": ["Bane", "Coringa", "Ra's al Ghul", "Exterminador"],
-    "correta": 0,
-    "explicacao": "Na HQ 'Knightfall', Bane quebra a coluna do Batman em um dos arcos mais icônicos do herói."
-  },
-  {
-    "id": 247,
-    "pergunta": "Qual o nome do martelo encantado usado por Thor?",
-    "opcoes": ["Mjolnir", "Stormbreaker", "Asgardian Hammer", "Gungnir"],
-    "correta": 0,
-    "explicacao": "O martelo de Thor se chama Mjolnir, encantado por Odin para ser empunhado apenas por quem for digno."
-  },
-  {
-    "id": 248,
-    "pergunta": "Qual é o nome verdadeiro do vilão Lex Luthor?",
-    "opcoes": ["Alexander Joseph Luthor", "Leonard James Luthor", "Louis John Luthor", "Alfred Jacob Luthor"],
-    "correta": 0,
-    "explicacao": "O nome completo de Lex Luthor é Alexander Joseph Luthor."
-  },
-  {
-    "id": 249,
-    "pergunta": "Qual personagem Marvel é conhecido como o 'Mercenário Tagarela'?",
-    "opcoes": ["Deadpool", "Homem-Aranha", "Cavaleiro da Lua", "Punho de Ferro"],
-    "correta": 0,
-    "explicacao": "Deadpool é apelidado de 'Merc with a Mouth' (Mercenário Tagarela) por seu humor e falas incessantes."
-  },
-  {
-    "id": 250,
-    "pergunta": "Quem foi o criador original da Liga da Justiça nos quadrinhos?",
-    "opcoes": ["Gardner Fox", "Stan Lee", "Jack Kirby", "Bob Kane"],
-    "correta": 0,
-    "explicacao": "Gardner Fox criou a Liga da Justiça em 1960, reunindo heróis da DC Comics."
-  },
-  {
-    "id": 251,
-    "pergunta": "Em qual HQ o Homem-Aranha aparece pela primeira vez?",
-    "opcoes": ["Amazing Spider-Man #1", "Amazing Fantasy #15", "Spectacular Spider-Man #1", "Marvel Team-Up #1"],
-    "correta": 1,
-    "explicacao": "O Homem-Aranha surgiu em Amazing Fantasy #15, de 1962."
-  },
-  {
-    "id": 252,
-    "pergunta": "Qual é o planeta natal de Superman?",
-    "opcoes": ["Krypton", "Apokolips", "Oa", "Thanagar"],
-    "correta": 0,
-    "explicacao": "Superman nasceu em Krypton, que foi destruído, levando-o a ser enviado à Terra."
-  },
-  {
-    "id": 253,
-    "pergunta": "Qual é a jóia do infinito controlada pelo Doutor Estranho?",
-    "opcoes": ["Joia da Realidade", "Joia do Poder", "Joia do Tempo", "Joia da Alma"],
-    "correta": 2,
-    "explicacao": "Doutor Estranho guarda a Joia do Tempo dentro do Olho de Agamotto."
-  },
-  {
-    "id": 254,
-    "pergunta": "Qual velocista da DC morreu durante a Crise nas Infinitas Terras?",
-    "opcoes": ["Barry Allen", "Wally West", "Jay Garrick", "Bart Allen"],
-    "correta": 0,
-    "explicacao": "Barry Allen se sacrifica durante a Crise nas Infinitas Terras, desaparecendo na Força de Aceleração."
-  },
-  {
-    "id": 255,
-    "pergunta": "Qual herói Marvel tem o nome verdadeiro de T’Challa?",
-    "opcoes": ["Pantera Negra", "Falcão", "Blade", "Luke Cage"],
-    "correta": 0,
-    "explicacao": "T’Challa é o rei de Wakanda e o herói Pantera Negra."
-  },
-  {
-    "id": 256,
-    "pergunta": "Qual herói da Liga da Justiça vem do planeta Thanagar?",
-    "opcoes": ["Mulher-Gavião", "Caçador de Marte", "Lanterna Verde", "Aquaman"],
-    "correta": 0,
-    "explicacao": "A Mulher-Gavião (Hawkgirl) vem do planeta Thanagar."
-  },
-  {
-    "id": 257,
-    "pergunta": "Qual é o verdadeiro nome do herói Marvel conhecido como Cavaleiro da Lua?",
-    "opcoes": ["Marc Spector", "Steven Grant", "Jake Lockley", "Arthur Harrow"],
-    "correta": 0,
-    "explicacao": "O Cavaleiro da Lua é Marc Spector, ex-mercenário que se torna avatar do deus Khonshu."
-  },
-  {
-    "id": 258,
-    "pergunta": "Qual foi o primeiro herói da DC Comics a ganhar uma revista solo?",
-    "opcoes": ["Superman", "Batman", "Flash", "Mulher-Maravilha"],
-    "correta": 0,
-    "explicacao": "Superman foi o primeiro a ganhar revista própria em 1939, após estrear em Action Comics #1 (1938)."
-  },
-  {
-    "id": 259,
-    "pergunta": "Qual herói Marvel tem como inimigo principal o Mandarim?",
-    "opcoes": ["Homem de Ferro", "Capitão América", "Thor", "Hulk"],
-    "correta": 0,
-    "explicacao": "O Mandarim é o vilão mais icônico do Homem de Ferro."
-  },
-  {
-    "id": 260,
-    "pergunta": "Qual membro da Liga da Justiça é conhecido como o 'Homem Mais Rápido do Mundo'?",
-    "opcoes": ["Flash", "Superman", "Lanterna Verde", "Aquaman"],
-    "correta": 0,
-    "explicacao": "O Flash é conhecido como 'O Homem Mais Rápido do Mundo'."
-  },
-  {
-    "id": 261,
-    "pergunta": "Qual HQ é considerada a estreia oficial de Wolverine?",
-    "opcoes": ["Incredible Hulk #180", "Incredible Hulk #181", "X-Men #94", "Avengers #16"],
-    "correta": 1,
-    "explicacao": "Embora Wolverine apareça brevemente em Incredible Hulk #180, sua estreia oficial é em #181."
-  },
-  {
-    "id": 262,
-    "pergunta": "Qual é o nome da mãe do Superman?",
-    "opcoes": ["Martha Kent", "Lois Lane", "Kara Zor-El", "Lara Lor-Van"],
-    "correta": 0,
-    "explicacao": "A mãe adotiva de Superman na Terra é Martha Kent."
-  },
-  {
-    "id": 263,
-    "pergunta": "Qual é a identidade secreta de Shazam?",
-    "opcoes": ["Billy Batson", "Freddy Freeman", "Jason Todd", "Dick Grayson"],
-    "correta": 0,
-    "explicacao": "Shazam é o alter ego do jovem Billy Batson."
-  },
-  {
-    "id": 264,
-    "pergunta": "Qual vingador foi introduzido primeiro nos cinemas da Marvel?",
-    "opcoes": ["Homem de Ferro", "Hulk", "Thor", "Capitão América"],
-    "correta": 0,
-    "explicacao": "O Homem de Ferro foi o primeiro Vingador do MCU, em 2008."
-  },
-  {
-    "id": 265,
-    "pergunta": "Qual vilão da DC é conhecido por usar enigmas e charadas contra o Batman?",
-    "opcoes": ["Charada", "Espantalho", "Duas-Caras", "Pinguim"],
-    "correta": 0,
-    "explicacao": "O Charada (Edward Nigma) é obcecado por enigmas e charadas."
-  },
-  {
-    "id": 266,
-    "pergunta": "Qual joia do infinito estava originalmente na testa do Visão?",
-    "opcoes": ["Joia da Mente", "Joia da Alma", "Joia da Realidade", "Joia do Poder"],
-    "correta": 0,
-    "explicacao": "Visão carrega a Joia da Mente em sua testa, colocada por Ultron nos filmes."
-  },
-  {
-    "id": 267,
-    "pergunta": "Qual Robin se tornou posteriormente o Capuz Vermelho?",
-    "opcoes": ["Jason Todd", "Dick Grayson", "Tim Drake", "Damian Wayne"],
-    "correta": 0,
-    "explicacao": "Jason Todd retorna dos mortos e se torna o anti-herói Capuz Vermelho."
-  },
-  {
-    "id": 268,
-    "pergunta": "Qual é o nome verdadeiro do Pantera Negra?",
-    "opcoes": ["T'Challa", "M'Baku", "N'Jadaka", "Shuri"],
-    "correta": 0,
-    "explicacao": "O Pantera Negra é T’Challa, rei de Wakanda."
-  },
-  {
-    "id": 269,
-    "pergunta": "Qual HQ marcou a primeira aparição do vilão Thanos?",
-    "opcoes": ["Iron Man #55", "Avengers #4", "Captain Marvel #25", "Thor #169"],
-    "correta": 0,
-    "explicacao": "Thanos apareceu pela primeira vez em Iron Man #55, em 1973."
-  },
-  {
-    "id": 270,
-    "pergunta": "Qual é o verdadeiro nome da Mulher-Maravilha?",
-    "opcoes": ["Diana Prince", "Diana Trevor", "Donna Troy", "Hippolyta"],
-    "correta": 0,
-    "explicacao": "A Mulher-Maravilha é Diana, princesa das Amazonas, conhecida na Terra como Diana Prince."
-  },
-  {
-    "id": 270,
-    "pergunta": "Qual é o nome verdadeiro do Flash mais famoso da Liga da Justiça?",
-    "opcoes": ["Barry Allen", "Wally West", "Jay Garrick", "Bart Allen"],
-    "correta": 0,
-    "explicacao": "O Flash mais famoso da Liga da Justiça é Barry Allen."
-  },
-  {
-    "id": 271,
-    "pergunta": "Qual é a fraqueza mais conhecida do Superman?",
-    "opcoes": ["Vibranium", "Adamantium", "Kryptonita", "Magnetismo"],
-    "correta": 2,
-    "explicacao": "A kryptonita é a maior fraqueza do Superman."
-  },
-  {
-    "id": 272,
-    "pergunta": "Quem é o vingador conhecido como Deus do Trovão?",
-    "opcoes": ["Thor", "Loki", "Odin", "Hércules"],
-    "correta": 0,
-    "explicacao": "Thor é o Deus do Trovão e membro dos Vingadores."
-  },
-  {
-    "id": 273,
-    "pergunta": "Qual membro da Liga da Justiça vem de Atlântida?",
-    "opcoes": ["Aquaman", "Superman", "Cyborg", "Lanterna Verde"],
-    "correta": 0,
-    "explicacao": "Aquaman é o rei de Atlântida e membro da Liga da Justiça."
-  },
-  {
-    "id": 274,
-    "pergunta": "Quem é o gênio bilionário dos Vingadores?",
-    "opcoes": ["Bruce Wayne", "Tony Stark", "Stephen Strange", "Reed Richards"],
-    "correta": 1,
-    "explicacao": "Tony Stark é o Homem de Ferro, gênio bilionário dos Vingadores."
-  },
-  {
-    "id": 275,
-    "pergunta": "Qual herói da DC é conhecido como 'Mulher-Maravilha'?",
-    "opcoes": ["Natasha Romanoff", "Diana Prince", "Jean Grey", "Carol Danvers"],
-    "correta": 1,
-    "explicacao": "Diana Prince é a Mulher-Maravilha da Liga da Justiça."
-  },
-  {
-    "id": 276,
-    "pergunta": "Qual vingador é conhecido como 'Sentinela da Liberdade'?",
-    "opcoes": ["Capitão América", "Homem de Ferro", "Pantera Negra", "Gavião Arqueiro"],
-    "correta": 0,
-    "explicacao": "O Capitão América é chamado de 'Sentinela da Liberdade'."
-  },
-  {
-    "id": 277,
-    "pergunta": "Qual herói da DC usa um anel de poder verde?",
-    "opcoes": ["Lanterna Verde", "Flash", "Shazam", "Batman"],
-    "correta": 0,
-    "explicacao": "O Lanterna Verde possui um anel que cria construções de energia."
-  },
-  {
-    "id": 278,
-    "pergunta": "Qual vingadora é conhecida como Viúva Negra?",
-    "opcoes": ["Natasha Romanoff", "Carol Danvers", "Wanda Maximoff", "Gamora"],
-    "correta": 0,
-    "explicacao": "Natasha Romanoff é a Viúva Negra nos Vingadores."
-  },
-  {
-    "id": 279,
-    "pergunta": "Qual é o herói da Liga da Justiça que tem corpo cibernético?",
-    "opcoes": ["Cyborg", "Flash", "Lanterna Verde", "Aquaman"],
-    "correta": 0,
-    "explicacao": "Cyborg é metade humano e metade máquina, membro da Liga da Justiça."
-  },
-  {
-    "id": 280,
-    "pergunta": "Qual vingador se transforma quando fica com raiva?",
-    "opcoes": ["Hulk", "Thor", "Homem de Ferro", "Homem-Formiga"],
-    "correta": 0,
-    "explicacao": "Bruce Banner se transforma no Hulk quando fica com raiva."
-  },
-  {
-    "id": 281,
-    "pergunta": "Qual herói da DC é chamado de 'Cavaleiro das Trevas'?",
-    "opcoes": ["Batman", "Superman", "Aquaman", "Lanterna Verde"],
-    "correta": 0,
-    "explicacao": "Batman é conhecido como o Cavaleiro das Trevas."
-  },
-  {
-    "id": 282,
-    "pergunta": "Qual vingador pode encolher e se comunicar com formigas?",
-    "opcoes": ["Homem-Formiga", "Homem-Aranha", "Pantera Negra", "Gavião Arqueiro"],
-    "correta": 0,
-    "explicacao": "Scott Lang é o Homem-Formiga e pode encolher e falar com formigas."
-  },
-  {
-    "id": 283,
-    "pergunta": "Qual heroína da Liga da Justiça usa um laço da verdade?",
-    "opcoes": ["Mulher-Maravilha", "Zatanna", "Canário Negro", "Supergirl"],
-    "correta": 0,
-    "explicacao": "Mulher-Maravilha usa o Laço da Verdade como sua arma principal."
-  },
-  {
-    "id": 284,
-    "pergunta": "Qual vingadora é também chamada de Feiticeira Escarlate?",
-    "opcoes": ["Wanda Maximoff", "Jean Grey", "Gamora", "Nebulosa"],
-    "correta": 0,
-    "explicacao": "Wanda Maximoff é a Feiticeira Escarlate dos Vingadores."
-  },
-  {
-    "id": 285,
-    "pergunta": "Qual herói da DC veio do planeta Krypton?",
-    "opcoes": ["Superman", "Batman", "Flash", "Cyborg"],
-    "correta": 0,
-    "explicacao": "Superman nasceu em Krypton e foi enviado à Terra ainda bebê."
-  },
-  {
-    "id": 286,
-    "pergunta": "Qual vingador usa arco e flecha como arma?",
-    "opcoes": ["Gavião Arqueiro", "Thor", "Loki", "Homem de Ferro"],
-    "correta": 0,
-    "explicacao": "Clint Barton é o Gavião Arqueiro e usa arco e flechas especiais."
-  },
-  {
-    "id": 287,
-    "pergunta": "Qual herói da Liga da Justiça é conhecido por sua supervelocidade?",
-    "opcoes": ["Flash", "Lanterna Verde", "Aquaman", "Shazam"],
-    "correta": 0,
-    "explicacao": "Flash é o velocista da Liga da Justiça."
-  },
-  {
-    "id": 288,
-    "pergunta": "Qual vingador tem origem em Wakanda?",
-    "opcoes": ["Pantera Negra", "Homem de Ferro", "Thor", "Capitão América"],
-    "correta": 0,
-    "explicacao": "Pantera Negra é o rei de Wakanda e membro dos Vingadores."
-  },
-  {
-    "id": 289,
-    "pergunta": "Qual é o nome verdadeiro do Batman?",
-    "opcoes": ["Bruce Wayne", "Clark Kent", "Tony Stark", "Steve Rogers"],
-    "correta": 0,
-    "explicacao": "O nome verdadeiro do Batman é Bruce Wayne."
-  },
-  {
-    "id": 290,
-    "pergunta": "Qual vingador tem um escudo feito de vibranium?",
-    "opcoes": ["Capitão América", "Hulk", "Homem de Ferro", "Thor"],
-    "correta": 0,
-    "explicacao": "O escudo do Capitão América é feito de vibranium."
-  },
-  {
-    "id": 291,
-    "pergunta": "Qual herói da DC grita 'Shazam!' para ganhar poderes?",
-    "opcoes": ["Shazam", "Aquaman", "Flash", "Lanterna Verde"],
-    "correta": 0,
-    "explicacao": "Billy Batson se transforma no herói Shazam ao gritar seu nome."
-  },
-  {
-    "id": 292,
-    "pergunta": "Qual vingador é um doutor especialista em artes místicas?",
-    "opcoes": ["Doutor Estranho", "Thor", "Visão", "Homem de Ferro"],
-    "correta": 0,
-    "explicacao": "Stephen Strange é o Doutor Estranho, mestre das artes místicas."
-  },
-  {
-    "id": 293,
-    "pergunta": "Qual heroína da Liga da Justiça é prima do Superman?",
-    "opcoes": ["Supergirl", "Zatanna", "Mulher-Gavião", "Mulher-Maravilha"],
-    "correta": 0,
-    "explicacao": "Kara Zor-El, conhecida como Supergirl, é prima do Superman."
-  },
-  {
-    "id": 294,
-    "pergunta": "Qual vingador é uma criação da inteligência artificial Ultron?",
-    "opcoes": ["Visão", "Homem de Ferro", "Falcão", "Pantera Negra"],
-    "correta": 0,
-    "explicacao": "Visão foi criado por Ultron, mas se juntou aos Vingadores."
-  },
-  {
-    "id": 295,
-    "pergunta": "Qual herói da Liga da Justiça pode falar com animais marinhos?",
-    "opcoes": ["Aquaman", "Superman", "Flash", "Cyborg"],
-    "correta": 0,
-    "explicacao": "Aquaman tem o poder de se comunicar com criaturas do mar."
-  },
-  {
-    "id": 296,
-    "pergunta": "Qual vingador é também conhecido como Falcão?",
-    "opcoes": ["Sam Wilson", "Bucky Barnes", "Scott Lang", "Steve Rogers"],
-    "correta": 0,
-    "explicacao": "Sam Wilson é o herói Falcão e membro dos Vingadores."
-  },
-  {
-    "id": 297,
-    "pergunta": "Qual herói da Liga da Justiça é meio humano e meio máquina?",
-    "opcoes": ["Cyborg", "Lanterna Verde", "Flash", "Shazam"],
-    "correta": 0,
-    "explicacao": "Victor Stone é o Cyborg, metade humano e metade tecnologia."
-  },
-  {
-    "id": 298,
-    "pergunta": "Qual vingador tem a habilidade de mudar de tamanho?",
-    "opcoes": ["Homem-Formiga", "Visão", "Capitão América", "Hulk"],
-    "correta": 0,
-    "explicacao": "O Homem-Formiga pode diminuir ou aumentar de tamanho."
-  },
-  {
-    "id": 299,
-    "pergunta": "Qual herói da DC usa uma capa vermelha e o símbolo 'S' no peito?",
-    "opcoes": ["Superman", "Shazam", "Flash", "Lanterna Verde"],
-    "correta": 0,
-    "explicacao": "Superman é famoso por sua capa vermelha e o 'S' no peito."
-  },
-  {
-    "id": 300,
-    "pergunta": "Quem foi o primeiro imperador do Brasil?",
-    "opcoes": ["Dom Pedro I", "Dom Pedro II", "Tiradentes", "Getúlio Vargas"],
-    "correta": 0,
-    "explicacao": "Dom Pedro I foi proclamado imperador em 1822, após a Independência do Brasil."
-  },
-  {
-    "id": 301,
-    "pergunta": "Qual evento marcou oficialmente o fim da escravidão no Brasil?",
-    "opcoes": ["A Proclamação da República", "Lei Áurea", "Inconfidência Mineira", "Constituição de 1824"],
-    "correta": 1,
-    "explicacao": "A Lei Áurea, assinada pela Princesa Isabel em 1888, aboliu a escravidão no Brasil."
-  },
-  {
-    "id": 302,
-    "pergunta": "Em que cidade ocorreu a Inconfidência Mineira?",
-    "opcoes": ["São Paulo", "Ouro Preto", "Salvador", "Rio de Janeiro"],
-    "correta": 1,
-    "explicacao": "A Inconfidência Mineira ocorreu em Vila Rica, atual Ouro Preto, Minas Gerais."
-  },
-  {
-    "id": 303,
-    "pergunta": "Quem proclamou a Independência do Brasil às margens do Rio Ipiranga?",
-    "opcoes": ["Dom João VI", "Dom Pedro I", "José Bonifácio", "Duque de Caxias"],
-    "correta": 1,
-    "explicacao": "Dom Pedro I proclamou a Independência em 7 de setembro de 1822 no Rio Ipiranga."
-  },
-  {
-    "id": 304,
-    "pergunta": "Qual foi a capital do Brasil antes de Brasília?",
-    "opcoes": ["São Paulo", "Ouro Preto", "Rio de Janeiro", "Salvador"],
-    "correta": 2,
-    "explicacao": "Antes de Brasília, a capital brasileira era o Rio de Janeiro."
-  },
-  {
-    "id": 305,
-    "pergunta": "Quem foi Tiradentes?",
-    "opcoes": ["Líder da Inconfidência Mineira", "Imperador do Brasil", "Presidente da República", "Fundador de Brasília"],
-    "correta": 0,
-    "explicacao": "Tiradentes foi um dos principais líderes da Inconfidência Mineira, movimento de independência."
-  },
-  {
-    "id": 306,
-    "pergunta": "Quem foi o presidente brasileiro durante a construção de Brasília?",
-    "opcoes": ["Juscelino Kubitschek", "Getúlio Vargas", "Marechal Deodoro", "Tancredo Neves"],
-    "correta": 0,
-    "explicacao": "Juscelino Kubitschek idealizou e iniciou a construção de Brasília, inaugurada em 1960."
-  },
-  {
-    "id": 307,
-    "pergunta": "Qual tratado definiu as fronteiras entre Brasil e Espanha no período colonial?",
-    "opcoes": ["Tratado de Petrópolis", "Tratado de Tordesilhas", "Tratado de Madri", "Tratado de Paris"],
-    "correta": 2,
-    "explicacao": "O Tratado de Madri (1750) redefiniu as fronteiras entre Portugal e Espanha nas Américas."
-  },
-  {
-    "id": 308,
-    "pergunta": "Qual movimento popular aconteceu em 1835 na Bahia?",
-    "opcoes": ["Revolta dos Malês", "Balaiada", "Sabinada", "Cabanagem"],
-    "correta": 0,
-    "explicacao": "A Revolta dos Malês (1835) foi uma rebelião de escravos muçulmanos em Salvador."
-  },
-  {
-    "id": 309,
-    "pergunta": "Quem foi o líder militar conhecido como Duque de Caxias?",
-    "opcoes": ["Líder da Inconfidência", "Comandante da Guerra do Paraguai", "Presidente do Brasil", "Explorador do sertão"],
-    "correta": 1,
-    "explicacao": "Duque de Caxias foi o comandante das tropas brasileiras na Guerra do Paraguai."
-  },
-  {
-    "id": 310,
-    "pergunta": "Qual presidente do Brasil ficou famoso pelo lema '50 anos em 5'?",
-    "opcoes": ["Getúlio Vargas", "Juscelino Kubitschek", "Tancredo Neves", "Fernando Henrique Cardoso"],
-    "correta": 1,
-    "explicacao": "Juscelino Kubitschek lançou o plano '50 anos em 5', propondo acelerar o desenvolvimento do Brasil."
-  },
-  {
-    "id": 311,
-    "pergunta": "Quem liderou a Revolução Farroupilha no Rio Grande do Sul?",
-    "opcoes": ["Bento Gonçalves", "Tiradentes", "José Bonifácio", "Marechal Deodoro"],
-    "correta": 0,
-    "explicacao": "Bento Gonçalves foi um dos principais líderes da Revolução Farroupilha (1835–1845)."
-  },
-  {
-    "id": 312,
-    "pergunta": "Qual foi o primeiro presidente do Brasil?",
-    "opcoes": ["Deodoro da Fonseca", "Floriano Peixoto", "Getúlio Vargas", "Campos Sales"],
-    "correta": 0,
-    "explicacao": "Marechal Deodoro da Fonseca foi o primeiro presidente após a Proclamação da República em 1889."
-  },
-  {
-    "id": 316,
-    "pergunta": "Onde começou o movimento conhecido como Cabanagem?",
-    "opcoes": ["Pará", "Bahia", "Rio Grande do Sul", "Minas Gerais"],
-    "correta": 0,
-    "explicacao": "A Cabanagem foi uma revolta popular que ocorreu no Pará entre 1835 e 1840."
-  },
-  {
-    "id": 319,
-    "pergunta": "Quem foi José Bonifácio de Andrada e Silva?",
-    "opcoes": ["O Patriarca da Independência", "Imperador do Brasil", "General da Guerra do Paraguai", "Presidente do Brasil"],
-    "correta": 0,
-    "explicacao": "José Bonifácio foi um dos principais articuladores da Independência do Brasil, conhecido como Patriarca da Independência."
-  },
-  {
-    "id": 320,
-    "pergunta": "Qual movimento aconteceu em 1922, sendo importante para a cultura brasileira?",
-    "opcoes": ["Semana de Arte Moderna", "Revolta da Chibata", "Intentona Comunista", "Proclamação da República"],
-    "correta": 0,
-    "explicacao": "A Semana de Arte Moderna de 1922 foi um marco na renovação da arte e cultura brasileira."
-  },
-  {
-    "id": 322,
-    "pergunta": "Qual evento histórico ficou conhecido como 'Revolta da Chibata'?",
-    "opcoes": ["Revolta de escravos contra senhores", "Motim de marinheiros contra castigos físicos", "Protesto estudantil", "Revolta camponesa"],
-    "correta": 1,
-    "explicacao": "A Revolta da Chibata (1910) foi um levante de marinheiros contra os castigos físicos aplicados na Marinha."
-  },
-  {
-    "id": 323,
-    "pergunta": "Qual presidente brasileiro ficou conhecido como 'Pai dos Pobres'?",
-    "opcoes": ["Juscelino Kubitschek", "Getúlio Vargas", "Tancredo Neves", "Lula"],
-    "correta": 1,
-    "explicacao": "Getúlio Vargas ficou conhecido como 'Pai dos Pobres' por suas políticas trabalhistas."
-  },
-  {
-    "id": 324,
-    "pergunta": "Quem governava Portugal quando a corte portuguesa se transferiu para o Brasil em 1808?",
-    "opcoes": ["Dom João VI", "Dom Pedro I", "Dom José I", "Dom Manuel II"],
-    "correta": 0,
-    "explicacao": "Dom João VI trouxe a corte portuguesa para o Rio de Janeiro em 1808, fugindo das tropas de Napoleão."
-  },
-  {
-    "id": 325,
-    "pergunta": "Qual país foi aliado do Brasil na Guerra do Paraguai?",
-    "opcoes": ["Chile", "Argentina", "Espanha", "Estados Unidos"],
-    "correta": 1,
-    "explicacao": "O Brasil lutou ao lado da Argentina e do Uruguai contra o Paraguai na Guerra do Paraguai."
-  },
-  {
-    "id": 326,
-    "pergunta": "Em que ano foi inaugurada Brasília?",
-    "opcoes": ["1945", "1955", "1960", "1970"],
-    "correta": 2,
-    "explicacao": "Brasília foi inaugurada em 21 de abril de 1960, durante o governo de Juscelino Kubitschek."
-  },
-  {
-    "id": 327,
-    "pergunta": "Quem foi Marechal Deodoro da Fonseca?",
-    "opcoes": ["O proclamador da República", "O líder da Independência", "Presidente da Constituinte de 1824", "General da Guerra do Paraguai"],
-    "correta": 0,
-    "explicacao": "Marechal Deodoro da Fonseca proclamou a República em 1889 e foi o primeiro presidente do Brasil."
-  },
-  {
-    "id": 328,
-    "pergunta": "Qual foi a principal atividade econômica do Brasil no período colonial?",
-    "opcoes": ["Mineração", "Pecuária", "Cana-de-açúcar", "Café"],
-    "correta": 2,
-    "explicacao": "Durante boa parte do período colonial, a cana-de-açúcar foi a principal atividade econômica do Brasil."
-  },
-  {
-    "id": 329,
-    "pergunta": "Qual foi o movimento popular que ocorreu em Canudos, na Bahia?",
-    "opcoes": ["Revolta dos Malês", "Revolta da Vacina", "Guerra de Canudos", "Balaiada"],
-    "correta": 2,
-    "explicacao": "A Guerra de Canudos (1896–1897) foi um conflito entre o exército e seguidores de Antônio Conselheiro."
-  },
-  {
-    "id": 300,
-    "pergunta": "Quem foi o primeiro imperador do Brasil?",
-    "opcoes": ["Dom Pedro I", "Dom Pedro II", "Tiradentes", "Getúlio Vargas"],
-    "correta": 0,
-    "explicacao": "Dom Pedro I foi proclamado imperador em 1822, após a Independência do Brasil."
-  },
-  {
-    "id": 301,
-    "pergunta": "Qual evento marcou oficialmente o fim da escravidão no Brasil?",
-    "opcoes": ["A Proclamação da República", "Lei Áurea", "Inconfidência Mineira", "Constituição de 1824"],
-    "correta": 1,
-    "explicacao": "A Lei Áurea, assinada pela Princesa Isabel em 1888, aboliu a escravidão no Brasil."
-  },
-  {
-    "id": 302,
-    "pergunta": "Em que cidade ocorreu a Inconfidência Mineira?",
-    "opcoes": ["São Paulo", "Ouro Preto", "Salvador", "Rio de Janeiro"],
-    "correta": 1,
-    "explicacao": "A Inconfidência Mineira ocorreu em Vila Rica, atual Ouro Preto, Minas Gerais."
-  },
-  {
-    "id": 303,
-    "pergunta": "Quem proclamou a Independência do Brasil às margens do Rio Ipiranga?",
-    "opcoes": ["Dom João VI", "Dom Pedro I", "José Bonifácio", "Duque de Caxias"],
-    "correta": 1,
-    "explicacao": "Dom Pedro I proclamou a Independência em 7 de setembro de 1822 no Rio Ipiranga."
-  },
-  {
-    "id": 304,
-    "pergunta": "Qual foi a capital do Brasil antes de Brasília?",
-    "opcoes": ["São Paulo", "Ouro Preto", "Rio de Janeiro", "Salvador"],
-    "correta": 2,
-    "explicacao": "Antes de Brasília, a capital brasileira era o Rio de Janeiro."
-  },
-  {
-    "id": 305,
-    "pergunta": "Quem foi Tiradentes?",
-    "opcoes": ["Líder da Inconfidência Mineira", "Imperador do Brasil", "Presidente da República", "Fundador de Brasília"],
-    "correta": 0,
-    "explicacao": "Tiradentes foi um dos principais líderes da Inconfidência Mineira, movimento de independência."
-  },
-  {
-    "id": 306,
-    "pergunta": "Quem foi o presidente brasileiro durante a construção de Brasília?",
-    "opcoes": ["Juscelino Kubitschek", "Getúlio Vargas", "Marechal Deodoro", "Tancredo Neves"],
-    "correta": 0,
-    "explicacao": "Juscelino Kubitschek idealizou e iniciou a construção de Brasília, inaugurada em 1960."
-  },
-  {
-    "id": 307,
-    "pergunta": "Qual tratado definiu as fronteiras entre Brasil e Espanha no período colonial?",
-    "opcoes": ["Tratado de Petrópolis", "Tratado de Tordesilhas", "Tratado de Madri", "Tratado de Paris"],
-    "correta": 2,
-    "explicacao": "O Tratado de Madri (1750) redefiniu as fronteiras entre Portugal e Espanha nas Américas."
-  },
-  {
-    "id": 308,
-    "pergunta": "Qual movimento popular aconteceu em 1835 na Bahia?",
-    "opcoes": ["Revolta dos Malês", "Balaiada", "Sabinada", "Cabanagem"],
-    "correta": 0,
-    "explicacao": "A Revolta dos Malês (1835) foi uma rebelião de escravos muçulmanos em Salvador."
-  },
-  {
-    "id": 309,
-    "pergunta": "Quem foi o líder militar conhecido como Duque de Caxias?",
-    "opcoes": ["Líder da Inconfidência", "Comandante da Guerra do Paraguai", "Presidente do Brasil", "Explorador do sertão"],
-    "correta": 1,
-    "explicacao": "Duque de Caxias foi o comandante das tropas brasileiras na Guerra do Paraguai."
-  },
-  {
-    "id": 310,
-    "pergunta": "Qual presidente do Brasil ficou famoso pelo lema '50 anos em 5'?",
-    "opcoes": ["Getúlio Vargas", "Juscelino Kubitschek", "Tancredo Neves", "Fernando Henrique Cardoso"],
-    "correta": 1,
-    "explicacao": "Juscelino Kubitschek lançou o plano '50 anos em 5', propondo acelerar o desenvolvimento do Brasil."
-  },
-  {
-    "id": 311,
-    "pergunta": "Quem liderou a Revolução Farroupilha no Rio Grande do Sul?",
-    "opcoes": ["Bento Gonçalves", "Tiradentes", "José Bonifácio", "Marechal Deodoro"],
-    "correta": 0,
-    "explicacao": "Bento Gonçalves foi um dos principais líderes da Revolução Farroupilha (1835–1845)."
-  },
-  {
-    "id": 312,
-    "pergunta": "Qual foi o primeiro presidente do Brasil?",
-    "opcoes": ["Deodoro da Fonseca", "Floriano Peixoto", "Getúlio Vargas", "Campos Sales"],
-    "correta": 0,
-    "explicacao": "Marechal Deodoro da Fonseca foi o primeiro presidente após a Proclamação da República em 1889."
-  },
-  {
-    "id": 313,
-    "pergunta": "Em que ano foi proclamada a República no Brasil?",
-    "opcoes": ["1822", "1889", "1930", "1964"],
-    "correta": 1,
-    "explicacao": "A Proclamação da República ocorreu em 15 de novembro de 1889."
-  },
-  {
-    "id": 314,
-    "pergunta": "Quem foi a princesa responsável por assinar a Lei Áurea?",
-    "opcoes": ["Princesa Isabel", "Rainha Carlota Joaquina", "Dona Leopoldina", "Maria da Glória"],
-    "correta": 0,
-    "explicacao": "A Princesa Isabel assinou a Lei Áurea em 13 de maio de 1888, abolindo a escravidão."
-  },
-  {
-    "id": 315,
-    "pergunta": "Qual foi o principal conflito internacional do qual o Brasil participou no século XIX?",
-    "opcoes": ["Guerra do Pacífico", "Guerra do Paraguai", "Guerra da Cisplatina", "Primeira Guerra Mundial"],
-    "correta": 1,
-    "explicacao": "A Guerra do Paraguai (1864–1870) foi o maior conflito da América do Sul, com forte participação do Brasil."
-  },
-  {
-    "id": 316,
-    "pergunta": "Onde começou o movimento conhecido como Cabanagem?",
-    "opcoes": ["Pará", "Bahia", "Rio Grande do Sul", "Minas Gerais"],
-    "correta": 0,
-    "explicacao": "A Cabanagem foi uma revolta popular que ocorreu no Pará entre 1835 e 1840."
-  },
-  {
-    "id": 317,
-    "pergunta": "Quem foi Getúlio Vargas?",
-    "opcoes": ["Imperador do Brasil", "Presidente do Brasil", "Militar da Guerra do Paraguai", "Líder da Inconfidência"],
-    "correta": 1,
-    "explicacao": "Getúlio Vargas governou o Brasil em duas ocasiões, sendo presidente eleito e ditador durante o Estado Novo."
-  },
-  {
-    "id": 318,
-    "pergunta": "Qual foi a capital do Brasil durante o período colonial?",
-    "opcoes": ["Brasília", "Rio de Janeiro", "Ouro Preto", "Salvador"],
-    "correta": 3,
-    "explicacao": "A primeira capital do Brasil foi Salvador, durante o período colonial."
-  },
-  {
-    "id": 319,
-    "pergunta": "Quem foi José Bonifácio de Andrada e Silva?",
-    "opcoes": ["O Patriarca da Independência", "Imperador do Brasil", "General da Guerra do Paraguai", "Presidente do Brasil"],
-    "correta": 0,
-    "explicacao": "José Bonifácio foi um dos principais articuladores da Independência do Brasil, conhecido como Patriarca da Independência."
-  },
-  {
-    "id": 321,
-    "pergunta": "Quem liderou a Coluna Prestes?",
-    "opcoes": ["Luís Carlos Prestes", "Getúlio Vargas", "Floriano Peixoto", "Oswaldo Aranha"],
-    "correta": 0,
-    "explicacao": "Luís Carlos Prestes foi o líder da Coluna Prestes, movimento político-militar da década de 1920."
-  },
-  {
-    "id": 322,
-    "pergunta": "Qual evento histórico ficou conhecido como 'Revolta da Chibata'?",
-    "opcoes": ["Revolta de escravos contra senhores", "Motim de marinheiros contra castigos físicos", "Protesto estudantil", "Revolta camponesa"],
-    "correta": 1,
-    "explicacao": "A Revolta da Chibata (1910) foi um levante de marinheiros contra os castigos físicos aplicados na Marinha."
-  },
-  {
-    "id": 323,
-    "pergunta": "Qual presidente brasileiro ficou conhecido como 'Pai dos Pobres'?",
-    "opcoes": ["Juscelino Kubitschek", "Getúlio Vargas", "Tancredo Neves", "Lula"],
-    "correta": 1,
-    "explicacao": "Getúlio Vargas ficou conhecido como 'Pai dos Pobres' por suas políticas trabalhistas."
-  },
-  {
-    "id": 324,
-    "pergunta": "Quem governava Portugal quando a corte portuguesa se transferiu para o Brasil em 1808?",
-    "opcoes": ["Dom João VI", "Dom Pedro I", "Dom José I", "Dom Manuel II"],
-    "correta": 0,
-    "explicacao": "Dom João VI trouxe a corte portuguesa para o Rio de Janeiro em 1808, fugindo das tropas de Napoleão."
-  },
-  {
-    "id": 325,
-    "pergunta": "Qual país foi aliado do Brasil na Guerra do Paraguai?",
-    "opcoes": ["Chile", "Argentina", "Espanha", "Estados Unidos"],
-    "correta": 1,
-    "explicacao": "O Brasil lutou ao lado da Argentina e do Uruguai contra o Paraguai na Guerra do Paraguai."
-  },
-  {
-    "id": 326,
-    "pergunta": "Em que ano foi inaugurada Brasília?",
-    "opcoes": ["1945", "1955", "1960", "1970"],
-    "correta": 2,
-    "explicacao": "Brasília foi inaugurada em 21 de abril de 1960, durante o governo de Juscelino Kubitschek."
-  },
-  {
-    "id": 328,
-    "pergunta": "Qual foi a principal atividade econômica do Brasil no período colonial?",
-    "opcoes": ["Mineração", "Pecuária", "Cana-de-açúcar", "Café"],
-    "correta": 2,
-    "explicacao": "Durante boa parte do período colonial, a cana-de-açúcar foi a principal atividade econômica do Brasil."
-  },
-  {
-    "id": 401,
-    "pergunta": "Qual país venceu a primeira Copa do Mundo, em 1930?",
-    "opcoes": ["Brasil", "Uruguai", "Alemanha", "Argentina"],
-    "correta": 1,
-    "explicacao": "O Uruguai foi o campeão da primeira Copa do Mundo, em 1930."
-  },
-  {
-    "id": 402,
-    "pergunta": "Qual país tem mais títulos da Copa do Mundo?",
-    "opcoes": ["Brasil", "Itália", "Alemanha", "Argentina"],
-    "correta": 0,
-    "explicacao": "O Brasil é o maior campeão, com 5 Copas do Mundo."
-  },
-  {
-    "id": 403,
-    "pergunta": "Qual jogador é conhecido como 'Rei do Futebol'?",
-    "opcoes": ["Pelé", "Maradona", "Zico", "Romário"],
-    "correta": 0,
-    "explicacao": "Pelé é considerado o Rei do Futebol, tricampeão mundial com o Brasil."
-  },
-  {
-    "id": 404,
-    "pergunta": "Em que país nasceu o jogador Lionel Messi?",
-    "opcoes": ["Espanha", "Brasil", "Argentina", "Uruguai"],
-    "correta": 2,
-    "explicacao": "Messi nasceu em Rosário, na Argentina."
-  },
-  {
-    "id": 405,
-    "pergunta": "Em que clube Pelé jogou a maior parte da sua carreira?",
-    "opcoes": ["Flamengo", "Botafogo", "Santos", "Corinthians"],
-    "correta": 2,
-    "explicacao": "Pelé jogou a maior parte de sua carreira no Santos Futebol Clube."
-  },
-  {
-    "id": 406,
-    "pergunta": "Qual é o apelido da Seleção Brasileira de Futebol?",
-    "opcoes": ["La Roja", "Azzurra", "Canarinho", "Albiceleste"],
-    "correta": 2,
-    "explicacao": "A Seleção Brasileira é conhecida como 'Canarinho', em referência à camisa amarela."
-  },
-  {
-    "id": 407,
-    "pergunta": "Quem foi o artilheiro da Copa de 2002?",
-    "opcoes": ["Ronaldo Fenômeno", "Ronaldinho Gaúcho", "Klose", "Henry"],
-    "correta": 0,
-    "explicacao": "Ronaldo Fenômeno foi o artilheiro da Copa de 2002, com 8 gols."
-  },
-  {
-    "id": 408,
-    "pergunta": "Qual estádio é conhecido como o 'Templo do Futebol' no Brasil?",
-    "opcoes": ["Maracanã", "Mineirão", "Morumbi", "Beira-Rio"],
-    "correta": 0,
-    "explicacao": "O Estádio do Maracanã, no Rio de Janeiro, é considerado o 'Templo do Futebol'."
-  },
-  {
-    "id": 409,
-    "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
-    "opcoes": ["África do Sul", "Brasil", "Alemanha", "Rússia"],
-    "correta": 1,
-    "explicacao": "O Brasil sediou a Copa do Mundo em 2014."
-  },
-  {
-    "id": 410,
-    "pergunta": "Quem marcou o gol do título do Brasil na Copa de 2002?",
-    "opcoes": ["Rivaldo", "Ronaldo Fenômeno", "Ronaldinho Gaúcho", "Cafu"],
-    "correta": 1,
-    "explicacao": "Ronaldo Fenômeno marcou dois gols na final contra a Alemanha em 2002."
-  },
-  {
-    "id": 411,
-    "pergunta": "Quantos jogadores cada time deve ter em campo no início de uma partida de futebol?",
-    "opcoes": ["9", "10", "11", "12"],
-    "correta": 2,
-    "explicacao": "Cada time começa com 11 jogadores em campo."
-  },
-  {
-    "id": 412,
-    "pergunta": "Quem é considerado o maior ídolo da história do Flamengo?",
-    "opcoes": ["Romário", "Zico", "Adriano", "Petkovic"],
-    "correta": 1,
-    "explicacao": "Zico é considerado o maior ídolo da história do Flamengo."
-  },
-  {
-    "id": 413,
-    "pergunta": "Quem foi o capitão do Brasil no título de 1994?",
-    "opcoes": ["Dunga", "Romário", "Bebeto", "Cafu"],
-    "correta": 0,
-    "explicacao": "Dunga foi o capitão da Seleção Brasileira campeã em 1994."
-  },
-  {
-    "id": 414,
-    "pergunta": "Qual é o maior rival do Real Madrid na Espanha?",
-    "opcoes": ["Valencia", "Sevilla", "Barcelona", "Atlético de Madrid"],
-    "correta": 2,
-    "explicacao": "O maior rival do Real Madrid é o Barcelona, no clássico El Clásico."
-  },
-  {
-    "id": 415,
-    "pergunta": "Quantas Copas do Mundo a Argentina já conquistou até 2022?",
-    "opcoes": ["1", "2", "3", "4"],
-    "correta": 2,
-    "explicacao": "A Argentina venceu 3 Copas: 1978, 1986 e 2022."
-  },
-  {
-    "id": 416,
-    "pergunta": "Quem é conhecido como 'Fenômeno' no futebol?",
-    "opcoes": ["Ronaldinho", "Cristiano Ronaldo", "Ronaldo Nazário", "Romário"],
-    "correta": 2,
-    "explicacao": "Ronaldo Nazário é chamado de 'Fenômeno'."
-  },
-  {
-    "id": 417,
-    "pergunta": "Qual seleção perdeu a final da Copa de 1950 para o Uruguai no Maracanã?",
-    "opcoes": ["Argentina", "Brasil", "Alemanha", "Itália"],
-    "correta": 1,
-    "explicacao": "O Brasil perdeu a final de 1950 para o Uruguai, no episódio conhecido como Maracanaço."
-  },
-  {
-    "id": 418,
-    "pergunta": "Qual jogador é apelidado de 'La Pulga'?",
-    "opcoes": ["Cristiano Ronaldo", "Messi", "Neymar", "Mbappé"],
-    "correta": 1,
-    "explicacao": "Lionel Messi é chamado de 'La Pulga', devido à sua baixa estatura e agilidade."
-  },
-  {
-    "id": 419,
-    "pergunta": "Qual clube é conhecido como 'Timão' no Brasil?",
-    "opcoes": ["Palmeiras", "São Paulo", "Corinthians", "Santos"],
-    "correta": 2,
-    "explicacao": "O Corinthians é conhecido como 'Timão'."
-  },
-  {
-    "id": 420,
-    "pergunta": "Qual é o maior estádio do Brasil em capacidade?",
-    "opcoes": ["Mineirão", "Morumbi", "Maracanã", "Arena Corinthians"],
-    "correta": 2,
-    "explicacao": "O Maracanã é o maior estádio do Brasil em capacidade."
-  },
-  {
-    "id": 421,
-    "pergunta": "Qual jogador brasileiro ficou famoso pela comemoração do 'corta-luz' com Bebeto em 1994?",
-    "opcoes": ["Romário", "Taffarel", "Mazinho", "Dunga"],
-    "correta": 0,
-    "explicacao": "Romário era parte da famosa comemoração do 'corta-luz' junto com Bebeto em 1994."
-  },
-  {
-    "id": 422,
-    "pergunta": "Qual clube brasileiro é chamado de 'Verdão'?",
-    "opcoes": ["Palmeiras", "Corinthians", "Fluminense", "Grêmio"],
-    "correta": 0,
-    "explicacao": "O Palmeiras é conhecido como 'Verdão'."
-  },
-  {
-    "id": 423,
-    "pergunta": "Quem é conhecido como 'CR7'?",
-    "opcoes": ["Cristiano Ronaldo", "Cafu", "Kaká", "Pato"],
-    "correta": 0,
-    "explicacao": "Cristiano Ronaldo é conhecido como CR7, referência ao número da camisa."
-  },
-  {
-    "id": 424,
-    "pergunta": "Qual país sediou a Copa do Mundo de 2018?",
-    "opcoes": ["Brasil", "Rússia", "Alemanha", "África do Sul"],
-    "correta": 1,
-    "explicacao": "A Rússia foi a sede da Copa do Mundo de 2018."
-  },
-  {
-    "id": 425,
-    "pergunta": "Qual jogador brasileiro é chamado de 'Ney' pelos torcedores?",
-    "opcoes": ["Ney Franco", "Neymar", "Nei Paraíba", "Nei Santos"],
-    "correta": 1,
-    "explicacao": "Neymar é chamado carinhosamente de 'Ney'."
-  },
-  {
-    "id": 426,
-    "pergunta": "Qual clube brasileiro tem o apelido de 'Imortal Tricolor'?",
-    "opcoes": ["Fluminense", "Grêmio", "Bahia", "São Paulo"],
-    "correta": 1,
-    "explicacao": "O Grêmio é chamado de 'Imortal Tricolor'."
-  },
-  {
-    "id": 427,
-    "pergunta": "Quem marcou o famoso gol de falta contra a Inglaterra na Copa de 2002?",
-    "opcoes": ["Rivaldo", "Ronaldinho Gaúcho", "Kaká", "Cafu"],
-    "correta": 1,
-    "explicacao": "Ronaldinho Gaúcho marcou um gol de falta memorável contra a Inglaterra em 2002."
-  },
-  {
-    "id": 428,
-    "pergunta": "Qual jogador é conhecido como 'O Baixinho'?",
-    "opcoes": ["Romário", "Garrincha", "Sócrates", "Careca"],
-    "correta": 0,
-    "explicacao": "Romário é conhecido como 'O Baixinho'."
-  },
-  {
-    "id": 429,
-    "pergunta": "Qual país ganhou a Copa do Mundo de 2010?",
-    "opcoes": ["Brasil", "Espanha", "Holanda", "Alemanha"],
-    "correta": 1,
-    "explicacao": "A Espanha foi campeã da Copa de 2010, vencendo a Holanda na final."
-  },
-  {
-    "id": 430,
-    "pergunta": "Quem foi o técnico da Seleção Brasileira no título de 2002?",
-    "opcoes": ["Felipão", "Parreira", "Dunga", "Zagallo"],
-    "correta": 0,
-    "explicacao": "Luiz Felipe Scolari, o Felipão, era o técnico da Seleção em 2002."
-  },
-  {
-    "id": 501,
-    "pergunta": "Qual é o maior planeta do Sistema Solar?",
-    "opcoes": ["Terra", "Marte", "Júpiter", "Saturno"],
-    "correta": 2,
-    "explicacao": "Júpiter é o maior planeta do Sistema Solar."
-  },
-  {
-    "id": 502,
-    "pergunta": "Qual oceano banha o litoral brasileiro?",
-    "opcoes": ["Oceano Pacífico", "Oceano Atlântico", "Oceano Índico", "Oceano Glacial"],
-    "correta": 1,
-    "explicacao": "O Brasil é banhado pelo Oceano Atlântico."
-  },
-  {
-    "id": 503,
-    "pergunta": "Quem pintou a obra 'Mona Lisa'?",
-    "opcoes": ["Michelangelo", "Van Gogh", "Leonardo da Vinci", "Picasso"],
-    "correta": 2,
-    "explicacao": "A 'Mona Lisa' foi pintada por Leonardo da Vinci."
-  },
-  {
-    "id": 504,
-    "pergunta": "Em que continente fica o deserto do Saara?",
-    "opcoes": ["Ásia", "América", "África", "Oceania"],
-    "correta": 2,
-    "explicacao": "O deserto do Saara está localizado na África."
-  },
-  {
-    "id": 505,
-    "pergunta": "Qual é o menor país do mundo?",
-    "opcoes": ["Mônaco", "Vaticano", "San Marino", "Andorra"],
-    "correta": 1,
-    "explicacao": "O Vaticano é o menor país do mundo em área e população."
-  },
-  {
-    "id": 506,
-    "pergunta": "Quem escreveu 'Dom Casmurro'?",
-    "opcoes": ["José de Alencar", "Machado de Assis", "Monteiro Lobato", "Cecília Meireles"],
-    "correta": 1,
-    "explicacao": "O romance 'Dom Casmurro' foi escrito por Machado de Assis."
-  },
-  {
-    "id": 507,
-    "pergunta": "Qual é o idioma oficial do México?",
-    "opcoes": ["Português", "Inglês", "Espanhol", "Francês"],
-    "correta": 2,
-    "explicacao": "O idioma oficial do México é o espanhol."
-  },
-  {
-    "id": 508,
-    "pergunta": "Qual é a capital da Argentina?",
-    "opcoes": ["Buenos Aires", "Montevidéu", "Santiago", "Lima"],
-    "correta": 0,
-    "explicacao": "A capital da Argentina é Buenos Aires."
-  },
-  {
-    "id": 509,
-    "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
-    "opcoes": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "Alan Shepard"],
-    "correta": 0,
-    "explicacao": "Neil Armstrong foi o primeiro homem a pisar na Lua em 1969."
-  },
-  {
-    "id": 510,
-    "pergunta": "Qual é o rio mais extenso do mundo?",
-    "opcoes": ["Rio Nilo", "Rio Amazonas", "Rio Yangtzé", "Rio Mississipi"],
-    "correta": 1,
-    "explicacao": "O Rio Amazonas é considerado o mais extenso e volumoso do mundo."
-  },
-  {
-    "id": 511,
-    "pergunta": "Qual metal é usado em cabos elétricos por sua alta condução?",
-    "opcoes": ["Ouro", "Alumínio", "Cobre", "Ferro"],
-    "correta": 2,
-    "explicacao": "O cobre é o metal mais usado na condução de energia elétrica."
-  },
-  {
-    "id": 512,
-    "pergunta": "Em que país se encontra a Torre Eiffel?",
-    "opcoes": ["Itália", "Alemanha", "França", "Espanha"],
-    "correta": 2,
-    "explicacao": "A Torre Eiffel fica em Paris, na França."
-  },
-  {
-    "id": 513,
-    "pergunta": "Qual é o continente com o maior número de países?",
-    "opcoes": ["Ásia", "África", "América", "Europa"],
-    "correta": 1,
-    "explicacao": "A África é o continente com mais países reconhecidos, mais de 50."
-  },
-  {
-    "id": 514,
-    "pergunta": "Quem foi o cientista que desenvolveu a teoria da relatividade?",
-    "opcoes": ["Newton", "Einstein", "Galileu", "Darwin"],
-    "correta": 1,
-    "explicacao": "Albert Einstein formulou a teoria da relatividade."
-  },
-  {
-    "id": 515,
-    "pergunta": "Qual é o país conhecido como 'Terra do Sol Nascente'?",
-    "opcoes": ["China", "Japão", "Coreia do Sul", "Tailândia"],
-    "correta": 1,
-    "explicacao": "O Japão é chamado de 'Terra do Sol Nascente'."
-  },
-  {
-    "id": 516,
-    "pergunta": "Qual é a capital de Portugal?",
-    "opcoes": ["Lisboa", "Porto", "Coimbra", "Braga"],
-    "correta": 0,
-    "explicacao": "A capital de Portugal é Lisboa."
-  },
-  {
-    "id": 517,
-    "pergunta": "Em que continente está localizado o Brasil?",
-    "opcoes": ["África", "Ásia", "América do Sul", "Europa"],
-    "correta": 2,
-    "explicacao": "O Brasil está localizado na América do Sul."
-  },
-  {
-    "id": 518,
-    "pergunta": "Quem pintou o teto da Capela Sistina?",
-    "opcoes": ["Rafael", "Donatello", "Michelangelo", "Da Vinci"],
-    "correta": 2,
-    "explicacao": "O teto da Capela Sistina foi pintado por Michelangelo."
-  },
-  {
-    "id": 519,
-    "pergunta": "Qual é o animal terrestre mais rápido do mundo?",
-    "opcoes": ["Leão", "Antílope", "Guepardo", "Cavalo"],
-    "correta": 2,
-    "explicacao": "O guepardo pode atingir velocidades de até 100 km/h."
-  },
-  {
-    "id": 520,
-    "pergunta": "Qual é o idioma oficial da China?",
-    "opcoes": ["Cantonês", "Mandarim", "Japonês", "Coreano"],
-    "correta": 1,
-    "explicacao": "O mandarim é o idioma oficial da China."
-  },
-  {
-    "id": 521,
-    "pergunta": "Qual planeta é conhecido como 'Planeta Vermelho'?",
-    "opcoes": ["Marte", "Vênus", "Saturno", "Mercúrio"],
-    "correta": 0,
-    "explicacao": "Marte é chamado de Planeta Vermelho por causa do óxido de ferro em sua superfície."
-  },
-  {
-    "id": 522,
-    "pergunta": "Qual é a capital da Itália?",
-    "opcoes": ["Milão", "Roma", "Veneza", "Nápoles"],
-    "correta": 1,
-    "explicacao": "A capital da Itália é Roma."
-  },
-  {
-    "id": 523,
-    "pergunta": "Quem foi o autor de 'O Pequeno Príncipe'?",
-    "opcoes": ["Saint-Exupéry", "Victor Hugo", "Balzac", "Camus"],
-    "correta": 0,
-    "explicacao": "O livro 'O Pequeno Príncipe' foi escrito por Antoine de Saint-Exupéry."
-  },
-  {
-    "id": 524,
-    "pergunta": "Qual gás os seres humanos precisam para respirar?",
-    "opcoes": ["Oxigênio", "Nitrogênio", "Gás Carbônico", "Hidrogênio"],
-    "correta": 0,
-    "explicacao": "O ser humano precisa de oxigênio para sobreviver."
-  },
-  {
-    "id": 525,
-    "pergunta": "Em que país nasceu o físico Isaac Newton?",
-    "opcoes": ["França", "Alemanha", "Inglaterra", "Itália"],
-    "correta": 2,
-    "explicacao": "Isaac Newton nasceu na Inglaterra em 1643."
-  },
-  {
-    "id": 526,
-    "pergunta": "Qual é o maior continente do planeta?",
-    "opcoes": ["África", "Ásia", "América", "Europa"],
-    "correta": 1,
-    "explicacao": "A Ásia é o maior continente em área e população."
-  },
-  {
-    "id": 527,
-    "pergunta": "Qual é a moeda oficial do Japão?",
-    "opcoes": ["Yuan", "Won", "Iene", "Dólar"],
-    "correta": 2,
-    "explicacao": "A moeda do Japão é o Iene."
-  },
-  {
-    "id": 528,
-    "pergunta": "Quem inventou a lâmpada elétrica incandescente?",
-    "opcoes": ["Nikola Tesla", "Thomas Edison", "Alexander Bell", "Benjamin Franklin"],
-    "correta": 1,
-    "explicacao": "Thomas Edison aperfeiçoou e popularizou a lâmpada incandescente."
-  },
-  {
-    "id": 529,
-    "pergunta": "Qual é o país mais populoso do mundo?",
-    "opcoes": ["Índia", "China", "EUA", "Indonésia"],
-    "correta": 1,
-    "explicacao": "Até 2022, a China era o país mais populoso, com mais de 1,4 bilhão de habitantes."
-  },
-  {
-    "id": 530,
-    "pergunta": "Qual é a capital do Egito?",
-    "opcoes": ["Cairo", "Alexandria", "Luxor", "Assuã"],
-    "correta": 0,
-    "explicacao": "A capital do Egito é Cairo."
-  },
-  {
-    "id": 601,
-    "pergunta": "Qual é o nome do jogo de sinuca online mais famoso da Miniclip?",
-    "opcoes": ["8 Ball Pool", "Snooker Stars", "Pool Master", "Billiards Club"],
-    "correta": 0,
-    "explicacao": "O jogo mais famoso da Miniclip é o 8 Ball Pool."
-  },
-  {
-    "id": 602,
-    "pergunta": "Qual é a moeda principal usada em 8 Ball Pool?",
-    "opcoes": ["Gemas", "Ouros", "Fichas", "Moedinhas"],
-    "correta": 2,
-    "explicacao": "As fichas são a moeda principal para jogar partidas em 8 Ball Pool."
-  },
-  {
-    "id": 603,
-    "pergunta": "Qual é a moeda mais rara e valiosa no 8 Ball Pool?",
-    "opcoes": ["Fichas", "Cash", "Moedas de Bronze", "Pontos"],
-    "correta": 1,
-    "explicacao": "O Cash é a moeda premium usada para comprar itens especiais."
-  },
-  {
-    "id": 604,
-    "pergunta": "Quantas bolas no total há em uma partida de 8 Ball Pool?",
-    "opcoes": ["15", "16", "12", "10"],
-    "correta": 1,
-    "explicacao": "São 15 bolas numeradas e 1 bola branca, totalizando 16."
-  },
-  {
-    "id": 605,
-    "pergunta": "Qual bola deve ser encaçapada por último para vencer?",
-    "opcoes": ["Bola 1", "Bola 8", "Bola 15", "Bola 16"],
-    "correta": 1,
-    "explicacao": "A bola preta número 8 é sempre a última da partida."
-  },
-  {
-    "id": 606,
-    "pergunta": "O que acontece se você encaçapar a bola 8 antes da hora?",
-    "opcoes": ["Nada", "Ganha bônus", "Perde o jogo", "A rodada reinicia"],
-    "correta": 2,
-    "explicacao": "Encaçapar a bola 8 antes do tempo resulta em derrota imediata."
-  },
-  {
-    "id": 607,
-    "pergunta": "Qual item melhora a força e mira no jogo?",
-    "opcoes": ["Tacos", "Luvas", "Mesas", "Avatares"],
-    "correta": 0,
-    "explicacao": "Tacos melhoram atributos como força, tempo e precisão."
-  },
-  {
-    "id": 608,
-    "pergunta": "O que acontece quando você perde todas as fichas?",
-    "opcoes": ["Não pode jogar mesas caras", "Perde o taco", "Fecha o jogo", "Apaga a conta"],
-    "correta": 0,
-    "explicacao": "Sem fichas, só é possível jogar mesas mais baratas ou resgatar bônus."
-  },
-  {
-    "id": 609,
-    "pergunta": "Qual é a mesa inicial onde os jogadores costumam começar?",
-    "opcoes": ["Las Vegas", "Moscou", "Londres", "Berlim"],
-    "correta": 2,
-    "explicacao": "A mesa de Londres é a primeira e mais barata do jogo."
-  },
-  {
-    "id": 610,
-    "pergunta": "Qual desses modos é comum em 8 Ball Pool?",
-    "opcoes": ["1 vs 1", "Torneio", "Ambos", "Nenhum"],
-    "correta": 2,
-    "explicacao": "O jogo possui tanto partidas 1 vs 1 quanto torneios."
-  },
-  {
-    "id": 611,
-    "pergunta": "O que significa o nível (level) do jogador?",
-    "opcoes": ["Quantidade de vitórias", "Experiência acumulada", "Número de tacos", "Moedas acumuladas"],
-    "correta": 1,
-    "explicacao": "O nível representa a experiência total acumulada."
-  },
-  {
-    "id": 612,
-    "pergunta": "O que acontece se o jogador encaçapar a bola branca?",
-    "opcoes": ["Perde a vez", "Perde fichas", "Ganha pontos", "Acaba a partida"],
-    "correta": 0,
-    "explicacao": "Encaçapar a bola branca resulta em falta e perda de vez."
-  },
-  {
-    "id": 613,
-    "pergunta": "Qual é a função do giro (spin) na bola branca?",
-    "opcoes": ["Deixar a bola mais pesada", "Controlar trajetória após impacto", "Aumentar a força do taco", "Acelerar o tempo"],
-    "correta": 1,
-    "explicacao": "O spin permite controlar para onde a bola branca vai após a tacada."
-  },
-  {
-    "id": 614,
-    "pergunta": "Qual destes lugares NÃO é uma mesa do 8 Ball Pool?",
-    "opcoes": ["Londres", "Tóquio", "Marte", "Miami"],
-    "correta": 2,
-    "explicacao": "Todas as opções são mesas reais, exceto Marte."
-  },
-  {
-    "id": 615,
-    "pergunta": "Como ganhar um taco lendário?",
-    "opcoes": ["Comprando pacotes", "Jogando torneios", "Ambos", "Não existem tacos lendários"],
-    "correta": 2,
-    "explicacao": "Tacos lendários podem ser conquistados em torneios ou comprados em pacotes."
-  },
-  {
-    "id": 616,
-    "pergunta": "O que acontece se o tempo da tacada acabar?",
-    "opcoes": ["Jogo pausa", "Perde a vez", "Perde pontos", "Sai do jogo"],
-    "correta": 1,
-    "explicacao": "Se o tempo acaba, você perde a vez automaticamente."
-  },
-  {
-    "id": 617,
-    "pergunta": "O que é o 'break' no início da partida?",
-    "opcoes": ["Primeira tacada", "Última tacada", "Erros do jogo", "Bônus diário"],
-    "correta": 0,
-    "explicacao": "O break é a primeira tacada que espalha as bolas."
-  },
-  {
-    "id": 618,
-    "pergunta": "Qual é o prêmio de uma partida?",
-    "opcoes": ["Nada", "Fichas", "Cash", "Avatares"],
-    "correta": 1,
-    "explicacao": "O vencedor recebe fichas como prêmio da partida."
-  },
-  {
-    "id": 619,
-    "pergunta": "Qual é a função do bônus diário?",
-    "opcoes": ["Ganhar tacos", "Ganhar fichas", "Ganhar skins", "Ganhar pontos de XP"],
-    "correta": 1,
-    "explicacao": "O bônus diário oferece fichas e às vezes cash."
-  },
-  {
-    "id": 620,
-    "pergunta": "Qual é a mesa mais cara do jogo?",
-    "opcoes": ["Londres", "Berlim", "Moscou", "Mumbai"],
-    "correta": 1,
-    "explicacao": "A mesa de Berlim é uma das mais caras do jogo."
-  },
-  {
-    "id": 621,
-    "pergunta": "O que significa XP em 8 Ball Pool?",
-    "opcoes": ["Extra Points", "Experiência", "Xtra Power", "Exame de Pontaria"],
-    "correta": 1,
-    "explicacao": "XP é a experiência acumulada pelo jogador."
-  },
-  {
-    "id": 622,
-    "pergunta": "O que acontece se o jogador sair da partida?",
-    "opcoes": ["Volta depois", "Perde automaticamente", "Continua contra o PC", "Jogo congela"],
-    "correta": 1,
-    "explicacao": "Ao sair da partida, a derrota é automática."
-  },
-  {
-    "id": 623,
-    "pergunta": "Qual é a cor da bola número 8?",
-    "opcoes": ["Branca", "Preta", "Azul", "Amarela"],
-    "correta": 1,
-    "explicacao": "A bola 8 é preta, símbolo clássico do jogo."
-  },
-  {
-    "id": 624,
-    "pergunta": "Qual é o objetivo principal de cada jogador?",
-    "opcoes": ["Encaçapar todas as bolas do adversário", "Encaçapar todas as suas bolas e depois a 8", "Encaçapar a branca", "Fazer pontos soltos"],
-    "correta": 1,
-    "explicacao": "Cada jogador precisa encaçapar seu grupo (lisas ou listradas) e depois a bola 8."
-  },
-  {
-    "id": 625,
-    "pergunta": "Qual é a diferença entre bolas lisas e listradas?",
-    "opcoes": ["Tamanho", "Peso", "Cor e numeração", "Valor em fichas"],
-    "correta": 2,
-    "explicacao": "As bolas são divididas em lisas (1 a 7) e listradas (9 a 15)."
-  },
-  {
-    "id": 626,
-    "pergunta": "Qual é a consequência de encaçapar a bola 8 junto da branca?",
-    "opcoes": ["Vitória", "Nada acontece", "Derrota", "Jogo reinicia"],
-    "correta": 2,
-    "explicacao": "Encaçapar a bola 8 junto com a branca dá derrota imediata."
-  },
-  {
-    "id": 627,
-    "pergunta": "O que acontece quando você sobe de nível?",
-    "opcoes": ["Recebe fichas", "Recebe cash", "Ganha prêmios", "Todas as anteriores"],
-    "correta": 3,
-    "explicacao": "Ao subir de nível, o jogador pode ganhar fichas, cash e prêmios variados."
-  },
-  {
-    "id": 628,
-    "pergunta": "Qual é a empresa criadora do 8 Ball Pool?",
-    "opcoes": ["King", "Electronic Arts", "Miniclip", "Rovio"],
-    "correta": 2,
-    "explicacao": "O 8 Ball Pool foi desenvolvido pela Miniclip."
-  },
-  {
-    "id": 629,
-    "pergunta": "Qual é o limite de tempo médio para uma jogada?",
-    "opcoes": ["10 segundos", "30 segundos", "1 minuto", "Não tem limite"],
-    "correta": 1,
-    "explicacao": "Cada jogada geralmente tem limite de 30 segundos."
-  },
-  {
-    "id": 630,
-    "pergunta": "Qual é a cor da bola número 1?",
-    "opcoes": ["Amarela", "Azul", "Vermelha", "Verde"],
-    "correta": 0,
-    "explicacao": "A bola 1 é amarela e faz parte das bolas lisas."
-  },
-  {
-    "id": 631,
-    "pergunta": "Em qual ano o jogo 8 Ball Pool foi lançado?",
-    "opcoes": ["2010", "2012", "2014", "2016"],
-    "correta": 1,
-    "explicacao": "O 8 Ball Pool foi lançado oficialmente em 2012 pela Miniclip."
-  },
-  {
-    "id": 632,
-    "pergunta": "Qual é o país de origem da empresa Miniclip?",
-    "opcoes": ["Estados Unidos", "Suíça", "Inglaterra", "Alemanha"],
-    "correta": 1,
-    "explicacao": "A Miniclip foi fundada em Neuchâtel, Suíça."
-  },
-  {
-    "id": 633,
-    "pergunta": "Qual é o nome do recurso que mostra a linha de mira estendida?",
-    "opcoes": ["Mira Pro", "Guia de Linha", "Extended Aim", "Trajetória Plus"],
-    "correta": 2,
-    "explicacao": "O Extended Aim aumenta o alcance da linha de mira."
-  },
-  {
-    "id": 634,
-    "pergunta": "Qual é o limite máximo de nível (level) no 8 Ball Pool?",
-    "opcoes": ["99", "500", "1000", "Não tem limite"],
-    "correta": 1,
-    "explicacao": "O limite de nível é 500."
-  },
-  {
-    "id": 635,
-    "pergunta": "O que acontece ao ganhar um torneio?",
-    "opcoes": ["Recebe fichas", "Recebe cash", "Ganha troféu virtual", "Todas as anteriores"],
-    "correta": 3,
-    "explicacao": "Ganhar torneios concede fichas, cash e troféus virtuais."
-  },
-  {
-    "id": 636,
-    "pergunta": "Qual é a principal diferença entre partidas 1x1 e torneios?",
-    "opcoes": ["Tempo de jogo", "Número de adversários", "Número de bolas", "Tipo de taco"],
-    "correta": 1,
-    "explicacao": "Nos torneios, o jogador enfrenta vários adversários até a final."
-  },
-  {
-    "id": 637,
-    "pergunta": "Qual destes NÃO é atributo de um taco?",
-    "opcoes": ["Força", "Tempo", "Precisão", "Velocidade da bola 8"],
-    "correta": 3,
-    "explicacao": "Os tacos têm atributos como força, tempo e precisão, mas não velocidade da bola 8."
-  },
-  {
-    "id": 638,
-    "pergunta": "O que significa 'All-in' no 8 Ball Pool?",
-    "opcoes": ["Jogar com todas as fichas", "Apostar o dobro", "Entrar no modo treino", "Encaçapar todas as bolas de uma vez"],
-    "correta": 0,
-    "explicacao": "O All-in é um modo onde você aposta todas as suas fichas disponíveis."
-  },
-  {
-    "id": 639,
-    "pergunta": "Qual é a principal vantagem de tacos lendários?",
-    "opcoes": ["Não quebram", "Recuperam força com o tempo", "Geram fichas extras", "São mais leves"],
-    "correta": 1,
-    "explicacao": "Tacos lendários recuperam força ao longo do tempo."
-  },
-  {
-    "id": 640,
-    "pergunta": "Qual é a mesa onde o valor de entrada é um dos mais altos?",
-    "opcoes": ["Cairo", "Berlim", "Tóquio", "Sydney"],
-    "correta": 1,
-    "explicacao": "A mesa de Berlim é uma das mais caras do jogo."
-  },
-  {
-    "id": 641,
-    "pergunta": "O que significa 'Win Streak Challenge'?",
-    "opcoes": ["Ganhar várias seguidas", "Ganhar só com a bola 8", "Ganhar sem faltas", "Ganhar apenas em torneios"],
-    "correta": 0,
-    "explicacao": "O Win Streak Challenge desafia o jogador a ganhar várias seguidas."
-  },
-  {
-    "id": 642,
-    "pergunta": "Qual destes modos NÃO existe no 8 Ball Pool?",
-    "opcoes": ["1 vs 1", "Torneios", "Missões de equipe", "Desafios semanais"],
-    "correta": 2,
-    "explicacao": "Não existem missões de equipe, o jogo é individual."
-  },
-  {
-    "id": 643,
-    "pergunta": "Qual item pode ser personalizado além dos tacos?",
-    "opcoes": ["Mesa", "Avatar", "Cor da bola 8", "Todas as anteriores"],
-    "correta": 1,
-    "explicacao": "É possível personalizar o avatar do jogador."
-  },
-  {
-    "id": 644,
-    "pergunta": "Qual destas cidades NÃO aparece como mesa no 8 Ball Pool?",
-    "opcoes": ["Londres", "Miami", "Paris", "Brasília"],
-    "correta": 3,
-    "explicacao": "Brasília não existe como mesa no jogo."
-  },
-  {
-    "id": 645,
-    "pergunta": "Qual é a função da barra de força ao dar a tacada?",
-    "opcoes": ["Escolher a bola", "Definir potência", "Escolher o taco", "Mudar o tempo"],
-    "correta": 1,
-    "explicacao": "A barra de força define a potência da tacada."
-  },
-  {
-    "id": 646,
-    "pergunta": "Qual é a consequência de cometer 3 faltas seguidas?",
-    "opcoes": ["Perde pontos", "Perde fichas", "Perde a partida", "Não acontece nada"],
-    "correta": 2,
-    "explicacao": "Três faltas seguidas resultam em derrota automática."
-  },
-  {
-    "id": 647,
-    "pergunta": "Qual destes não é um tipo de bola no jogo?",
-    "opcoes": ["Lisas", "Listradas", "Metálicas", "Bola 8"],
-    "correta": 2,
-    "explicacao": "Não existem bolas metálicas no 8 Ball Pool."
-  },
-  {
-    "id": 648,
-    "pergunta": "Qual é a vantagem de conectar o jogo ao Facebook?",
-    "opcoes": ["Ganhar tacos lendários", "Salvar progresso e jogar com amigos", "Ganhar moedas infinitas", "Mudar a cor da mesa"],
-    "correta": 1,
-    "explicacao": "Conectar ao Facebook permite salvar o progresso e jogar com amigos."
-  },
-  {
-    "id": 649,
-    "pergunta": "Qual destes eventos pode aparecer em 8 Ball Pool?",
-    "opcoes": ["Win Streak", "Lucky Shot", "Golden Spin", "Todos"],
-    "correta": 3,
-    "explicacao": "O jogo possui eventos como Win Streak, Lucky Shot e Golden Spin."
-  },
-  {
-    "id": 650,
-    "pergunta": "Qual é a função do 'Golden Spin'?",
-    "opcoes": ["Dar fichas", "Dar cash", "Dar prêmios variados", "Todas as anteriores"],
-    "correta": 3,
-    "explicacao": "O Golden Spin pode dar fichas, cash e até tacos."
-  },
-  {
-    "id": 651,
-    "pergunta": "O que acontece se o jogador encaçapar a bola errada no final?",
-    "opcoes": ["Nada", "Perde o jogo", "Ganha bônus", "Recomeça"],
-    "correta": 1,
-    "explicacao": "Encaçapar a bola errada dá derrota imediata."
-  },
-  {
-    "id": 652,
-    "pergunta": "Qual é o maior prêmio possível em uma tacada de Lucky Shot?",
-    "opcoes": ["Fichas", "Cash", "Taco exclusivo", "Todos"],
-    "correta": 3,
-    "explicacao": "O Lucky Shot pode render fichas, cash e tacos exclusivos."
-  },
-  {
-    "id": 653,
-    "pergunta": "O que acontece se você não se conectar por vários dias?",
-    "opcoes": ["Perde fichas", "Não ganha bônus diário", "Perde tacos", "Perde nível"],
-    "correta": 1,
-    "explicacao": "O bônus diário não acumula se você não jogar."
-  },
-  {
-    "id": 654,
-    "pergunta": "Qual destas recompensas é comum em desafios semanais?",
-    "opcoes": ["Fichas", "Cash", "Tacos", "Todas"],
-    "correta": 3,
-    "explicacao": "Os desafios semanais podem dar fichas, cash e tacos."
-  },
-  {
-    "id": 655,
-    "pergunta": "Qual é a principal forma de subir de nível?",
-    "opcoes": ["Ganhar fichas", "Ganhar cash", "Jogar partidas", "Comprar pacotes"],
-    "correta": 2,
-    "explicacao": "A experiência é obtida jogando partidas."
-  },
-  {
-    "id": 656,
-    "pergunta": "Qual destes é considerado um 'erro de jogo'?",
-    "opcoes": ["Acertar a bola do adversário primeiro", "Não encostar em nenhuma bola", "Encaçapar a bola branca", "Todas as anteriores"],
-    "correta": 3,
-    "explicacao": "Todas as situações são faltas no jogo."
-  },
-  {
-    "id": 657,
-    "pergunta": "Qual é o modo onde se aposta valores altíssimos?",
-    "opcoes": ["Londres", "All-in", "Sydney", "Cairo"],
-    "correta": 1,
-    "explicacao": "O modo All-in permite apostar todas as fichas disponíveis."
-  },
-  {
-    "id": 658,
-    "pergunta": "Qual é a cor da bola número 2?",
-    "opcoes": ["Azul", "Vermelha", "Amarela", "Verde"],
-    "correta": 0,
-    "explicacao": "A bola número 2 é azul lisa."
-  },
-  {
-    "id": 659,
-    "pergunta": "Qual é a cor da bola número 15?",
-    "opcoes": ["Vermelha", "Marrom", "Preta", "Roxa"],
-    "correta": 0,
-    "explicacao": "A bola número 15 é vermelha e listrada."
-  },
-  {
-    "id": 660,
-    "pergunta": "Qual é o objetivo principal em qualquer mesa?",
-    "opcoes": ["Acumular fichas", "Encaçapar todas as suas bolas e depois a 8", "Evitar faltas", "Fazer XP"],
-    "correta": 1,
-    "explicacao": "O objetivo é encaçapar todas as bolas do seu grupo e depois a bola 8."
-  },
-  {
-    "id": 661,
-    "pergunta": "Qual é o maior órgão do corpo humano?",
-    "opcoes": ["Coração", "Pulmão", "Pele", "Fígado"],
-    "correta": 2,
-    "explicacao": "A pele é o maior órgão do corpo humano."
-  },
-  {
-    "id": 662,
-    "pergunta": "Quantos ossos tem o corpo humano adulto?",
-    "opcoes": ["206", "210", "198", "201"],
-    "correta": 0,
-    "explicacao": "Um adulto tem em média 206 ossos."
-  },
-  {
-    "id": 663,
-    "pergunta": "Qual é o órgão responsável por bombear o sangue?",
-    "opcoes": ["Fígado", "Coração", "Pulmão", "Rim"],
-    "correta": 1,
-    "explicacao": "O coração bombeia sangue para todo o corpo."
-  },
-  {
-    "id": 664,
-    "pergunta": "Qual é o maior osso do corpo humano?",
-    "opcoes": ["Fêmur", "Tíbia", "Úmero", "Coluna"],
-    "correta": 0,
-    "explicacao": "O fêmur, localizado na coxa, é o maior osso do corpo humano."
-  },
-  {
-    "id": 665,
-    "pergunta": "Qual órgão é responsável pela produção da bile?",
-    "opcoes": ["Estômago", "Fígado", "Intestino", "Baço"],
-    "correta": 1,
-    "explicacao": "O fígado produz a bile, que auxilia na digestão de gorduras."
-  },
-  {
-    "id": 666,
-    "pergunta": "Qual é a função principal dos rins?",
-    "opcoes": ["Produzir insulina", "Filtrar o sangue", "Regular a pressão", "Digestionar proteínas"],
-    "correta": 1,
-    "explicacao": "Os rins filtram o sangue e eliminam resíduos através da urina."
-  },
-  {
-    "id": 667,
-    "pergunta": "Qual órgão controla todas as funções do corpo?",
-    "opcoes": ["Pulmões", "Cérebro", "Fígado", "Coração"],
-    "correta": 1,
-    "explicacao": "O cérebro é o centro de comando do corpo humano."
-  },
-  {
-    "id": 668,
-    "pergunta": "Quantos dentes permanentes tem um adulto?",
-    "opcoes": ["28", "30", "32", "36"],
-    "correta": 2,
-    "explicacao": "Um adulto possui 32 dentes permanentes, incluindo os sisos."
-  },
-  {
-    "id": 669,
-    "pergunta": "Qual parte do corpo humano continua crescendo durante toda a vida?",
-    "opcoes": ["Olhos", "Cérebro", "Nariz e orelhas", "Fêmur"],
-    "correta": 2,
-    "explicacao": "Nariz e orelhas continuam crescendo lentamente durante toda a vida."
-  },
-  {
-    "id": 670,
-    "pergunta": "Qual é o músculo responsável pela respiração?",
-    "opcoes": ["Diafragma", "Bíceps", "Quadríceps", "Peitorais"],
-    "correta": 0,
-    "explicacao": "O diafragma é o principal músculo responsável pela respiração."
-  },
-  {
-    "id": 671,
-    "pergunta": "Onde se localiza a traqueia?",
-    "opcoes": ["No abdômen", "No pescoço", "No tórax", "Na cabeça"],
-    "correta": 1,
-    "explicacao": "A traqueia fica no pescoço e leva ar até os pulmões."
-  },
-  {
-    "id": 672,
-    "pergunta": "Qual é o órgão responsável por armazenar a urina?",
-    "opcoes": ["Rim", "Vesícula", "Bexiga", "Intestino grosso"],
-    "correta": 2,
-    "explicacao": "A bexiga é responsável por armazenar a urina antes da eliminação."
-  },
-  {
-    "id": 673,
-    "pergunta": "Qual é a principal função do estômago?",
-    "opcoes": ["Bombear sangue", "Produzir hormônios", "Digestionar alimentos", "Filtrar resíduos"],
-    "correta": 2,
-    "explicacao": "O estômago é responsável pela digestão dos alimentos."
-  },
-  {
-    "id": 674,
-    "pergunta": "Qual parte do olho é responsável pela cor?",
-    "opcoes": ["Pupila", "Córnea", "Íris", "Cristalino"],
-    "correta": 2,
-    "explicacao": "A íris é a parte colorida dos olhos."
-  },
-  {
-    "id": 675,
-    "pergunta": "Qual é a função principal dos pulmões?",
-    "opcoes": ["Bombear sangue", "Trocar oxigênio e gás carbônico", "Produzir hormônios", "Filtrar toxinas"],
-    "correta": 1,
-    "explicacao": "Os pulmões realizam as trocas gasosas com o sangue."
-  },
-  {
-    "id": 676,
-    "pergunta": "Quantas costelas tem normalmente um ser humano?",
-    "opcoes": ["22", "24", "26", "28"],
-    "correta": 1,
-    "explicacao": "O corpo humano possui normalmente 24 costelas, 12 de cada lado."
-  },
-  {
-    "id": 677,
-    "pergunta": "Qual é a função da medula espinhal?",
-    "opcoes": ["Produzir glóbulos vermelhos", "Conectar cérebro ao corpo", "Controlar a digestão", "Armazenar gordura"],
-    "correta": 1,
-    "explicacao": "A medula espinhal conecta o cérebro ao resto do corpo e transmite sinais nervosos."
-  },
-  {
-    "id": 678,
-    "pergunta": "Qual é a função das plaquetas no sangue?",
-    "opcoes": ["Transportar oxigênio", "Combater infecções", "Coagulação", "Regular temperatura"],
-    "correta": 2,
-    "explicacao": "As plaquetas ajudam na coagulação do sangue."
-  },
-  {
-    "id": 679,
-    "pergunta": "Onde se localiza o fígado?",
-    "opcoes": ["Lado direito do abdômen", "Lado esquerdo do abdômen", "No tórax", "Na pelve"],
-    "correta": 0,
-    "explicacao": "O fígado fica no lado direito do abdômen, logo abaixo do diafragma."
-  },
-  {
-    "id": 680,
-    "pergunta": "Qual é a função principal do intestino delgado?",
-    "opcoes": ["Absorver nutrientes", "Produzir enzimas", "Filtrar toxinas", "Produzir hormônios"],
-    "correta": 0,
-    "explicacao": "O intestino delgado é responsável pela absorção de nutrientes."
-  },
-  {
-    "id": 681,
-    "pergunta": "Qual órgão é conhecido como 'banco de sangue' do corpo?",
-    "opcoes": ["Coração", "Baço", "Pulmão", "Pâncreas"],
-    "correta": 1,
-    "explicacao": "O baço armazena sangue e auxilia no sistema imunológico."
-  },
-  {
-    "id": 682,
-    "pergunta": "Qual parte do corpo possui as falanges?",
-    "opcoes": ["Nariz", "Dedos", "Coluna", "Orelhas"],
-    "correta": 1,
-    "explicacao": "As falanges são ossos que formam os dedos das mãos e dos pés."
-  },
-  {
-    "id": 683,
-    "pergunta": "Qual é a função dos glóbulos vermelhos?",
-    "opcoes": ["Transportar oxigênio", "Combater bactérias", "Produzir hormônios", "Gerar energia"],
-    "correta": 0,
-    "explicacao": "Os glóbulos vermelhos transportam oxigênio no sangue."
-  },
-  {
-    "id": 684,
-    "pergunta": "Qual é o menor osso do corpo humano?",
-    "opcoes": ["Estribo", "Fêmur", "Tíbia", "Cúbito"],
-    "correta": 0,
-    "explicacao": "O estribo, localizado no ouvido médio, é o menor osso do corpo humano."
-  },
-  {
-    "id": 685,
-    "pergunta": "Onde fica localizado o úmero?",
-    "opcoes": ["Perna", "Braço", "Coluna", "Pescoço"],
-    "correta": 1,
-    "explicacao": "O úmero é o osso longo que fica no braço."
-  },
-  {
-    "id": 686,
-    "pergunta": "Qual parte do corpo humano contém a patela?",
-    "opcoes": ["Ombro", "Joelho", "Cotovelo", "Quadril"],
-    "correta": 1,
-    "explicacao": "A patela é o osso do joelho, conhecido como 'rótula'."
-  },
-  {
-    "id": 687,
-    "pergunta": "Qual glândula é chamada de 'glândula mestra'?",
-    "opcoes": ["Tireoide", "Hipófise", "Suprarrenal", "Pineal"],
-    "correta": 1,
-    "explicacao": "A hipófise controla várias outras glândulas do corpo."
-  },
-  {
-    "id": 688,
-    "pergunta": "Qual é a função da epiglote?",
-    "opcoes": ["Produzir saliva", "Fechar a traqueia ao engolir", "Produzir hormônios", "Controlar a voz"],
-    "correta": 1,
-    "explicacao": "A epiglote evita que alimentos entrem na traqueia durante a deglutição."
-  },
-  {
-    "id": 689,
-    "pergunta": "Qual é a parte do corpo responsável pelo equilíbrio?",
-    "opcoes": ["Cérebro", "Ouvido interno", "Olhos", "Pernas"],
-    "correta": 1,
-    "explicacao": "O ouvido interno contém estruturas que controlam o equilíbrio."
-  },
-  {
-    "id": 690,
-    "pergunta": "Qual é o principal hormônio produzido pelo pâncreas?",
-    "opcoes": ["Insulina", "Adrenalina", "Estrogênio", "Testosterona"],
-    "correta": 0,
-    "explicacao": "O pâncreas produz insulina, que regula os níveis de glicose no sangue."
-  },
-  {
-    "id": 691,
-    "pergunta": "Qual é a molécula essencial para a vida conhecida como 'molécula da hereditariedade'?",
-    "opcoes": ["RNA", "DNA", "Proteína", "Lipídio"],
-    "correta": 1,
-    "explicacao": "O DNA carrega as informações genéticas dos seres vivos."
-  },
-  {
-    "id": 692,
-    "pergunta": "Qual gás é essencial para a respiração celular dos seres humanos?",
-    "opcoes": ["Dióxido de carbono", "Oxigênio", "Nitrogênio", "Hidrogênio"],
-    "correta": 1,
-    "explicacao": "O oxigênio é fundamental para a respiração celular."
-  },
-  {
-    "id": 693,
-    "pergunta": "Qual é o órgão responsável pela fotossíntese nas plantas?",
-    "opcoes": ["Raiz", "Caule", "Folha", "Flor"],
-    "correta": 2,
-    "explicacao": "As folhas contêm clorofila e realizam a fotossíntese."
-  },
-  {
-    "id": 694,
-    "pergunta": "Qual elemento químico é representado pelo símbolo 'Na'?",
-    "opcoes": ["Níquel", "Nitrogênio", "Sódio", "Neônio"],
-    "correta": 2,
-    "explicacao": "O símbolo 'Na' corresponde ao sódio."
-  },
-  {
-    "id": 695,
-    "pergunta": "Qual é a fórmula química da água?",
-    "opcoes": ["H2O", "CO2", "NaCl", "O2"],
-    "correta": 0,
-    "explicacao": "A fórmula da água é H2O, dois átomos de hidrogênio e um de oxigênio."
-  },
-  {
-    "id": 696,
-    "pergunta": "Qual grupo de seres vivos é unicelular?",
-    "opcoes": ["Mamíferos", "Aves", "Bactérias", "Peixes"],
-    "correta": 2,
-    "explicacao": "As bactérias são organismos unicelulares."
-  },
-  {
-    "id": 697,
-    "pergunta": "Qual é o principal gás do efeito estufa liberado pela queima de combustíveis fósseis?",
-    "opcoes": ["O2", "N2", "CO2", "CH4"],
-    "correta": 2,
-    "explicacao": "O dióxido de carbono (CO2) é o principal responsável pelo efeito estufa."
-  },
-  {
-    "id": 698,
-    "pergunta": "Qual é a unidade básica da vida?",
-    "opcoes": ["Molécula", "Célula", "Tecido", "Órgão"],
-    "correta": 1,
-    "explicacao": "A célula é a unidade básica estrutural e funcional dos seres vivos."
-  },
-  {
-    "id": 699,
-    "pergunta": "Qual é o elemento químico essencial presente na hemoglobina?",
-    "opcoes": ["Magnésio", "Ferro", "Cálcio", "Potássio"],
-    "correta": 1,
-    "explicacao": "O ferro está presente na hemoglobina e permite o transporte de oxigênio."
-  },
-  {
-    "id": 700,
-    "pergunta": "Qual é o processo pelo qual as plantas produzem seu próprio alimento?",
-    "opcoes": ["Respiração", "Digestão", "Fotossíntese", "Fermentação"],
-    "correta": 2,
-    "explicacao": "A fotossíntese é o processo de produção de glicose pelas plantas."
-  },
-  {
-    "id": 701,
-    "pergunta": "Qual é o pH neutro da água?",
-    "opcoes": ["5", "6", "7", "8"],
-    "correta": 2,
-    "explicacao": "O valor de pH neutro é 7."
-  },
-  {
-    "id": 702,
-    "pergunta": "Qual é a função dos ribossomos na célula?",
-    "opcoes": ["Produção de energia", "Síntese de proteínas", "Digestão celular", "Armazenamento de DNA"],
-    "correta": 1,
-    "explicacao": "Os ribossomos são responsáveis pela síntese de proteínas."
-  },
-  {
-    "id": 703,
-    "pergunta": "Qual elemento químico é representado pelo símbolo 'O'?",
-    "opcoes": ["Osmio", "Oxigênio", "Ouro", "Ozônio"],
-    "correta": 1,
-    "explicacao": "O símbolo 'O' representa o oxigênio."
-  },
-  {
-    "id": 704,
-    "pergunta": "Qual é a molécula que armazena energia nas células?",
-    "opcoes": ["ADN", "ATP", "RNA", "Glicose"],
-    "correta": 1,
-    "explicacao": "O ATP (trifosfato de adenosina) é a moeda de energia das células."
-  },
-  {
-    "id": 705,
-    "pergunta": "Qual é o gás essencial para a fotossíntese?",
-    "opcoes": ["Oxigênio", "Dióxido de carbono", "Hidrogênio", "Nitrogênio"],
-    "correta": 1,
-    "explicacao": "O dióxido de carbono (CO2) é utilizado na fotossíntese."
-  },
-  {
-    "id": 706,
-    "pergunta": "Qual órgão do corpo humano realiza a filtração do sangue?",
-    "opcoes": ["Coração", "Rins", "Fígado", "Pulmões"],
-    "correta": 1,
-    "explicacao": "Os rins são responsáveis por filtrar o sangue."
-  },
-  {
-    "id": 707,
-    "pergunta": "Qual é a camada mais externa da Terra, formada por rochas?",
-    "opcoes": ["Manto", "Crosta", "Núcleo externo", "Núcleo interno"],
-    "correta": 1,
-    "explicacao": "A crosta terrestre é a camada mais externa da Terra."
-  },
-  {
-    "id": 708,
-    "pergunta": "Qual é o nome do açúcar presente nas frutas?",
-    "opcoes": ["Glicose", "Frutose", "Lactose", "Sacarose"],
-    "correta": 1,
-    "explicacao": "A frutose é o açúcar natural das frutas."
-  },
-  {
-    "id": 709,
-    "pergunta": "Qual é o símbolo químico do Potássio?",
-    "opcoes": ["P", "Po", "K", "Pt"],
-    "correta": 2,
-    "explicacao": "O símbolo químico do potássio é K."
-  },
-  {
-    "id": 710,
-    "pergunta": "Qual é o processo em que leveduras transformam açúcar em álcool?",
-    "opcoes": ["Fotossíntese", "Fermentação", "Respiração aeróbica", "Oxidação"],
-    "correta": 1,
-    "explicacao": "A fermentação alcoólica converte açúcares em álcool e gás carbônico."
-  },
-  {
-    "id": 711,
-    "pergunta": "Qual é a principal função dos cloroplastos?",
-    "opcoes": ["Armazenar glicose", "Fotossíntese", "Produzir proteínas", "Respiração celular"],
-    "correta": 1,
-    "explicacao": "Os cloroplastos são organelas responsáveis pela fotossíntese."
-  },
-  {
-    "id": 712,
-    "pergunta": "Qual é a partícula subatômica com carga negativa?",
-    "opcoes": ["Próton", "Nêutron", "Elétron", "Íon"],
-    "correta": 2,
-    "explicacao": "O elétron possui carga elétrica negativa."
-  },
-  {
-    "id": 713,
-    "pergunta": "Qual é o processo de perda de água pelas plantas?",
-    "opcoes": ["Respiração", "Transpiração", "Fotossíntese", "Fermentação"],
-    "correta": 1,
-    "explicacao": "A transpiração é a perda de água pelas folhas."
-  },
-  {
-    "id": 714,
-    "pergunta": "Qual é a fórmula do gás carbônico?",
-    "opcoes": ["CO2", "CO", "C2O", "C2O2"],
-    "correta": 0,
-    "explicacao": "A fórmula correta do dióxido de carbono é CO2."
-  },
-  {
-    "id": 715,
-    "pergunta": "Qual é o nome do processo que converte glicose em energia dentro das células?",
-    "opcoes": ["Fotossíntese", "Respiração celular", "Fermentação", "Digestão"],
-    "correta": 1,
-    "explicacao": "A respiração celular transforma glicose em energia (ATP)."
-  },
-  {
-    "id": 716,
-    "pergunta": "Qual é o nome da molécula que dá cor verde às plantas?",
-    "opcoes": ["Clorofila", "Caroteno", "Hemoglobina", "Melanina"],
-    "correta": 0,
-    "explicacao": "A clorofila é o pigmento verde essencial à fotossíntese."
-  },
-  {
-    "id": 717,
-    "pergunta": "Qual é o elemento químico que forma diamantes e grafite?",
-    "opcoes": ["Carbono", "Silício", "Enxofre", "Ferro"],
-    "correta": 0,
-    "explicacao": "O carbono pode formar diferentes estruturas como diamante e grafite."
-  },
-  {
-    "id": 718,
-    "pergunta": "Qual é a principal fonte de energia para os seres vivos?",
-    "opcoes": ["Proteínas", "Lipídios", "Carboidratos", "Vitaminas"],
-    "correta": 2,
-    "explicacao": "Os carboidratos são a principal fonte de energia para o corpo."
-  },
-  {
-    "id": 719,
-    "pergunta": "Qual é a partícula que fica no núcleo do átomo e não possui carga elétrica?",
-    "opcoes": ["Próton", "Nêutron", "Elétron", "Íon"],
-    "correta": 1,
-    "explicacao": "Os nêutrons ficam no núcleo do átomo e não possuem carga elétrica."
-  },
-  {
-    "id": 720,
-    "pergunta": "Qual é a principal função da clorofila?",
-    "opcoes": ["Absorver luz solar", "Produzir oxigênio", "Fixar nitrogênio", "Armazenar água"],
-    "correta": 0,
-    "explicacao": "A clorofila absorve luz solar para o processo da fotossíntese."
-  },
-  {
-    "id": 721,
-    "pergunta": "Qual é o nome do guia do grupo em Caverna do Dragão?",
-    "opcoes": ["Mestre dos Magos", "Vingador", "Dungeon Master", "Orko"],
-    "correta": 0,
-    "explicacao": "O Mestre dos Magos é quem orienta os jovens na jornada."
-  },
-  {
-    "id": 722,
-    "pergunta": "Qual é o inimigo principal em Caverna do Dragão?",
-    "opcoes": ["Skeletor", "Vingador", "Thanos", "Shrek"],
-    "correta": 1,
-    "explicacao": "O Vingador é o grande vilão da série."
-  },
-  {
-    "id": 723,
-    "pergunta": "Qual é o nome do cavalo voador que ajuda os heróis em Caverna do Dragão?",
-    "opcoes": ["Uni", "Pegasus", "Pégaso", "Shadowfax"],
-    "correta": 0,
-    "explicacao": "Uni é o unicórnio amigo dos heróis."
-  },
-  {
-    "id": 724,
-    "pergunta": "Qual dos jovens de Caverna do Dragão tinha o arco mágico?",
-    "opcoes": ["Hank", "Eric", "Bobby", "Sheila"],
-    "correta": 0,
-    "explicacao": "Hank era o arqueiro do grupo."
-  },
-  {
-    "id": 725,
-    "pergunta": "Quem é a irmã de Bobby, o bárbaro, em Caverna do Dragão?",
-    "opcoes": ["Sheila", "Diana", "Tiamat", "Luna"],
-    "correta": 0,
-    "explicacao": "Sheila, a ladina, é a irmã protetora de Bobby."
-  },
-  {
-    "id": 726,
-    "pergunta": "Qual cavaleiro de bronze usa a armadura de Pégaso?",
-    "opcoes": ["Shiryu", "Hyoga", "Seiya", "Ikki"],
-    "correta": 2,
-    "explicacao": "Seiya é o cavaleiro de Pégaso."
-  },
-  {
-    "id": 727,
-    "pergunta": "Qual cavaleiro de bronze é conhecido por ser o mais calmo e justo?",
-    "opcoes": ["Shiryu de Dragão", "Ikki de Fênix", "Hyoga de Cisne", "Shun de Andrômeda"],
-    "correta": 0,
-    "explicacao": "Shiryu é o cavaleiro mais sábio e calmo do grupo."
-  },
-  {
-    "id": 728,
-    "pergunta": "Qual é o irmão mais velho de Shun de Andrômeda?",
-    "opcoes": ["Seiya", "Ikki", "Hyoga", "Shiryu"],
-    "correta": 1,
-    "explicacao": "Ikki é o irmão mais velho de Shun."
-  },
-  {
-    "id": 729,
-    "pergunta": "Quem é a reencarnação da deusa Atena em Cavaleiros do Zodíaco?",
-    "opcoes": ["Marin", "Saori Kido", "Esmeralda", "Pandora"],
-    "correta": 1,
-    "explicacao": "Saori Kido é a reencarnação da deusa Atena."
-  },
-  {
-    "id": 730,
-    "pergunta": "Qual cavaleiro controla o gelo?",
-    "opcoes": ["Ikki", "Shiryu", "Hyoga", "Shun"],
-    "correta": 2,
-    "explicacao": "Hyoga de Cisne usa técnicas de gelo."
-  },
-  {
-    "id": 731,
-    "pergunta": "Quem é o pai de Goku em Dragon Ball?",
-    "opcoes": ["Raditz", "Bardock", "Vegeta", "Kami-Sama"],
-    "correta": 1,
-    "explicacao": "Bardock é o pai de Goku."
-  },
-  {
-    "id": 732,
-    "pergunta": "Qual é o nome do planeta natal de Goku?",
-    "opcoes": ["Namekusei", "Terra", "Vegeta", "Saiyan"],
-    "correta": 2,
-    "explicacao": "O planeta natal dos Saiyajins é o Planeta Vegeta."
-  },
-  {
-    "id": 733,
-    "pergunta": "Quem foi o primeiro mestre de artes marciais de Goku?",
-    "opcoes": ["Kami-Sama", "Mestre Kame", "Mr. Popo", "Kuririn"],
-    "correta": 1,
-    "explicacao": "Mestre Kame foi quem treinou Goku e Kuririn."
-  },
-  {
-    "id": 734,
-    "pergunta": "Qual técnica famosa Goku aprendeu com Mestre Kame?",
-    "opcoes": ["Galick Gun", "Kamehameha", "Final Flash", "Makankosappo"],
-    "correta": 1,
-    "explicacao": "O Kamehameha é a técnica clássica ensinada por Mestre Kame."
-  },
-  {
-    "id": 735,
-    "pergunta": "Qual é o irmão mais velho de Goku?",
-    "opcoes": ["Raditz", "Vegeta", "Gohan", "Trunks"],
-    "correta": 0,
-    "explicacao": "Raditz é o irmão mais velho de Goku."
-  },
-  {
-    "id": 736,
-    "pergunta": "Qual vilão foi o responsável pela destruição do Planeta Vegeta?",
-    "opcoes": ["Cell", "Freeza", "Majin Boo", "Broly"],
-    "correta": 1,
-    "explicacao": "Freeza foi o responsável por destruir o planeta Vegeta."
-  },
-  {
-    "id": 737,
-    "pergunta": "Quem foi o primeiro Super Saiyajin mostrado em Dragon Ball Z?",
-    "opcoes": ["Goku", "Vegeta", "Gohan", "Trunks"],
-    "correta": 0,
-    "explicacao": "Goku foi o primeiro a alcançar a forma de Super Saiyajin contra Freeza."
-  },
-  {
-    "id": 738,
-    "pergunta": "Qual é o nome do filho de Goku?",
-    "opcoes": ["Vegeta", "Raditz", "Gohan", "Goten"],
-    "correta": 2,
-    "explicacao": "O primeiro filho de Goku é Gohan."
-  },
-  {
-    "id": 739,
-    "pergunta": "Qual é o nome do filho mais novo de Goku?",
-    "opcoes": ["Trunks", "Vegeta Jr.", "Goten", "Pan"],
-    "correta": 2,
-    "explicacao": "O filho mais novo de Goku é Goten."
-  },
-  {
-    "id": 740,
-    "pergunta": "Qual é o nome do vilão que absorve os androides em Dragon Ball Z?",
-    "opcoes": ["Cell", "Babidi", "Boo", "Freeza"],
-    "correta": 0,
-    "explicacao": "Cell é o vilão que absorve os androides 17 e 18."
-  },
-  {
-    "id": 741,
-    "pergunta": "Qual era a cor do uniforme original dos Mighty Morphin Power Rangers?",
-    "opcoes": ["Vermelho, Azul, Verde, Branco, Preto, Rosa", "Vermelho, Azul, Preto, Amarelo, Rosa", "Verde, Branco, Preto, Amarelo, Roxo", "Somente vermelho e azul"],
-    "correta": 1,
-    "explicacao": "Os cinco Power Rangers originais eram vermelho, azul, preto, amarelo e rosa."
-  },
-  {
-    "id": 742,
-    "pergunta": "Quem era o líder dos Power Rangers originais?",
-    "opcoes": ["Billy", "Jason", "Tommy", "Zack"],
-    "correta": 1,
-    "explicacao": "Jason, o Ranger Vermelho, era o líder original."
-  },
-  {
-    "id": 743,
-    "pergunta": "Qual Ranger era conhecido como o 'Cérebro do grupo'?",
-    "opcoes": ["Billy", "Jason", "Zack", "Kimberly"],
-    "correta": 0,
-    "explicacao": "Billy, o Ranger Azul, era o mais inteligente do grupo."
-  },
-  {
-    "id": 744,
-    "pergunta": "Quem foi o primeiro Ranger Verde?",
-    "opcoes": ["Zack", "Tommy", "Jason", "Adam"],
-    "correta": 1,
-    "explicacao": "Tommy Oliver foi o primeiro Ranger Verde."
-  },
-  {
-    "id": 745,
-    "pergunta": "Qual é o nome do robô assistente dos Power Rangers?",
-    "opcoes": ["R2-D2", "Alpha 5", "C-3PO", "Zordon"],
-    "correta": 1,
-    "explicacao": "Alpha 5 era o simpático robô ajudante dos Rangers."
-  },
-  {
-    "id": 746,
-    "pergunta": "Qual entidade dava os poderes aos Power Rangers?",
-    "opcoes": ["Alpha 5", "Zordon", "Rita Repulsa", "Lord Zedd"],
-    "correta": 1,
-    "explicacao": "Zordon era quem concedia os poderes e guiava os Rangers."
-  },
-  {
-    "id": 747,
-    "pergunta": "Qual era a arma principal dos Power Rangers quando unidos?",
-    "opcoes": ["Sabres", "Blasters", "Megazord", "Chicotes"],
-    "correta": 2,
-    "explicacao": "Os Rangers combinavam seus Zords para formar o Megazord."
-  },
-  {
-    "id": 748,
-    "pergunta": "Qual vilã queria conquistar a Terra nos Power Rangers originais?",
-    "opcoes": ["Rita Repulsa", "Astronema", "Divatox", "Scorpina"],
-    "correta": 0,
-    "explicacao": "Rita Repulsa era a vilã principal da primeira temporada."
-  },
-  {
-    "id": 749,
-    "pergunta": "Quem foi o Ranger que mais vezes voltou em diferentes gerações?",
-    "opcoes": ["Jason", "Tommy", "Zack", "Billy"],
-    "correta": 1,
-    "explicacao": "Tommy apareceu em várias gerações, como Ranger Verde, Branco, Vermelho e Preto."
-  },
-  {
-    "id": 750,
-    "pergunta": "Qual era o lema dos Power Rangers?",
-    "opcoes": ["Go Go Power Rangers!", "Unidos venceremos!", "Mais rápido que a luz!", "Sempre alerta!"],
-    "correta": 0,
-    "explicacao": "O lema clássico era 'Go Go Power Rangers!'"
-  },
-  {
-    "id": 751,
-    "pergunta": "Quem é o deus do trovão na mitologia grega?",
-    "opcoes": ["Ares", "Zeus", "Hades", "Apolo"],
-    "correta": 1,
-    "explicacao": "Zeus é o rei dos deuses e controla os céus e o trovão."
-  },
-  {
-    "id": 752,
-    "pergunta": "Quem é a deusa do amor e da beleza?",
-    "opcoes": ["Hera", "Afrodite", "Artemis", "Deméter"],
-    "correta": 1,
-    "explicacao": "Afrodite é a deusa do amor e da beleza."
-  },
-  {
-    "id": 753,
-    "pergunta": "Qual deus grego governa o submundo?",
-    "opcoes": ["Hades", "Poseidon", "Zeus", "Ares"],
-    "correta": 0,
-    "explicacao": "Hades é o deus do submundo e dos mortos."
-  },
-  {
-    "id": 754,
-    "pergunta": "Quem é a deusa da sabedoria e da guerra estratégica?",
-    "opcoes": ["Athena", "Hera", "Artemis", "Deméter"],
-    "correta": 0,
-    "explicacao": "Athena é a deusa da sabedoria, artes e estratégia militar."
-  },
-  {
-    "id": 755,
-    "pergunta": "Qual deus é irmão de Zeus e deus do mar?",
-    "opcoes": ["Hades", "Hermes", "Poseidon", "Ares"],
-    "correta": 2,
-    "explicacao": "Poseidon é o deus do mar e irmão de Zeus e Hades."
-  },
-  {
-    "id": 756,
-    "pergunta": "Quem é a deusa da caça e protetora dos animais selvagens?",
-    "opcoes": ["Artemis", "Athena", "Afrodite", "Hera"],
-    "correta": 0,
-    "explicacao": "Artemis é a deusa da caça e da vida selvagem."
-  },
-  {
-    "id": 757,
-    "pergunta": "Qual deus grego é conhecido como o deus da guerra?",
-    "opcoes": ["Ares", "Hermes", "Dionísio", "Apolo"],
-    "correta": 0,
-    "explicacao": "Ares é o deus da guerra e da violência."
-  },
-  {
-    "id": 758,
-    "pergunta": "Quem é o deus do vinho e do teatro?",
-    "opcoes": ["Apolo", "Dionísio", "Hefesto", "Hermes"],
-    "correta": 1,
-    "explicacao": "Dionísio é o deus do vinho, do prazer e do teatro."
-  },
-  {
-    "id": 759,
-    "pergunta": "Qual deusa é esposa de Zeus e deusa do casamento?",
-    "opcoes": ["Hera", "Athena", "Afrodite", "Deméter"],
-    "correta": 0,
-    "explicacao": "Hera é a rainha dos deuses e deusa do casamento."
-  },
-  {
-    "id": 760,
-    "pergunta": "Quem é o mensageiro dos deuses, conhecido por suas sandálias aladas?",
-    "opcoes": ["Hermes", "Apolo", "Ares", "Hefesto"],
-    "correta": 0,
-    "explicacao": "Hermes é o mensageiro divino, deus do comércio e viajantes."
-  },
-  {
-    "id": 761,
-    "pergunta": "Qual deus é o ferreiro dos deuses, responsável pelas armas?",
-    "opcoes": ["Ares", "Hefesto", "Apolo", "Poseidon"],
-    "correta": 1,
-    "explicacao": "Hefesto é o deus do fogo e da forja, criador de armas e armaduras."
-  },
-  {
-    "id": 762,
-    "pergunta": "Quem é a deusa da agricultura e da colheita?",
-    "opcoes": ["Deméter", "Artemis", "Hera", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Deméter é a deusa da agricultura e das estações."
-  },
-  {
-    "id": 763,
-    "pergunta": "Qual deus é associado ao sol e à música?",
-    "opcoes": ["Apolo", "Ares", "Hermes", "Dionísio"],
-    "correta": 0,
-    "explicacao": "Apolo é o deus do sol, da música e da profecia."
-  },
-  {
-    "id": 764,
-    "pergunta": "Quem é a deusa da lua na mitologia grega?",
-    "opcoes": ["Artemis", "Selene", "Hera", "Afrodite"],
-    "correta": 1,
-    "explicacao": "Selene é a deusa da lua; Artemis também é associada à lua e caça."
-  },
-  {
-    "id": 765,
-    "pergunta": "Qual deus grego tinha o caduceu como símbolo?",
-    "opcoes": ["Hermes", "Apolo", "Ares", "Hades"],
-    "correta": 0,
-    "explicacao": "Hermes carrega o caduceu, símbolo de comércio e comunicação."
-  },
-  {
-    "id": 766,
-    "pergunta": "Quem é a deusa da destruição e vingança?",
-    "opcoes": ["Nêmesis", "Hera", "Atena", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Nêmesis é a deusa da justiça, vingança e retribuição."
-  },
-  {
-    "id": 767,
-    "pergunta": "Qual deus é conhecido por seu arco e flechas e associado à juventude e amor?",
-    "opcoes": ["Eros", "Ares", "Hermes", "Apolo"],
-    "correta": 0,
-    "explicacao": "Eros é o deus do amor e da paixão."
-  },
-  {
-    "id": 768,
-    "pergunta": "Quem é a deusa que protege os marinheiros e viajantes?",
-    "opcoes": ["Hera", "Atena", "Posídon", "Aphrodite"],
-    "correta": 1,
-    "explicacao": "Athena também era invocada por viajantes e para proteção estratégica."
-  },
-  {
-    "id": 769,
-    "pergunta": "Qual deus grego era responsável por controlar os ventos?",
-    "opcoes": ["Bóreas", "Ares", "Zeus", "Hades"],
-    "correta": 0,
-    "explicacao": "Bóreas é o deus do vento norte; outros deuses também controlavam ventos menores."
-  },
-  {
-    "id": 770,
-    "pergunta": "Quem é a deusa da magia e encantamentos?",
-    "opcoes": ["Hécate", "Artemis", "Athena", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Hécate é a deusa da magia, bruxaria e encruzilhadas."
-  },
-  {
-    "id": 771,
-    "pergunta": "Qual deus grego é associado à sorte e ao destino?",
-    "opcoes": ["Tyche", "Ares", "Hermes", "Hades"],
-    "correta": 0,
-    "explicacao": "Tyche é a deusa da sorte e fortuna."
-  },
-  {
-    "id": 772,
-    "pergunta": "Quem era o deus grego da música e da poesia?",
-    "opcoes": ["Apolo", "Eros", "Dionísio", "Hermes"],
-    "correta": 0,
-    "explicacao": "Apolo é o deus das artes, incluindo música, poesia e profecias."
-  },
-  {
-    "id": 773,
-    "pergunta": "Qual deus grego é conhecido por seu escudo indestrutível e capacete?",
-    "opcoes": ["Ares", "Athena", "Hades", "Hefesto"],
-    "correta": 1,
-    "explicacao": "Athena é a deusa da guerra estratégica e é frequentemente representada com escudo e capacete."
-  },
-  {
-    "id": 774,
-    "pergunta": "Quem é o deus do sono?",
-    "opcoes": ["Hipnos", "Morfeu", "Zeus", "Thanatos"],
-    "correta": 0,
-    "explicacao": "Hipnos é o deus do sono; Morfeu é seu filho e mensageiro dos sonhos."
-  },
-  {
-    "id": 775,
-    "pergunta": "Qual deus é responsável por guiar as almas dos mortos?",
-    "opcoes": ["Hermes", "Hades", "Thanatos", "Hypnos"],
-    "correta": 2,
-    "explicacao": "Thanatos é o deus da morte pacífica e guia as almas ao submundo."
-  },
-  {
-    "id": 776,
-    "pergunta": "Quem era a deusa que punia os mortais arrogantes?",
-    "opcoes": ["Nêmesis", "Hera", "Athena", "Hécate"],
-    "correta": 0,
-    "explicacao": "Nêmesis punia aqueles que se mostravam arrogantes ou desafiavam os deuses."
-  },
-  {
-    "id": 777,
-    "pergunta": "Qual deus grego é associado à comunicação e ao comércio?",
-    "opcoes": ["Hermes", "Apolo", "Ares", "Dionísio"],
-    "correta": 0,
-    "explicacao": "Hermes é o deus mensageiro, padroeiro do comércio e viajantes."
-  },
-  {
-    "id": 778,
-    "pergunta": "Quem é o deus dos animais selvagens e da caça?",
-    "opcoes": ["Ares", "Artemis", "Pan", "Hades"],
-    "correta": 2,
-    "explicacao": "Pan é o deus dos bosques, animais e da natureza selvagem."
-  },
-  {
-    "id": 779,
-    "pergunta": "Quem é a deusa da fertilidade e da natureza?",
-    "opcoes": ["Deméter", "Afrodite", "Hera", "Artemis"],
-    "correta": 0,
-    "explicacao": "Deméter é a deusa da agricultura, fertilidade e ciclos da natureza."
-  },
-  {
-    "id": 780,
-    "pergunta": "Qual deus grego era associado à música selvagem e festas?",
-    "opcoes": ["Dionísio", "Apolo", "Hermes", "Ares"],
-    "correta": 0,
-    "explicacao": "Dionísio é o deus do vinho, festas e celebrações selvagens."
-  },
-  {
-    "id": 781,
-    "pergunta": "Quem é conhecido como o deus da travessura e confusão?",
-    "opcoes": ["Tó", "Loki", "Vishu", "Ares"],
-    "correta": 1,
-    "explicacao": "Na mitologia nórdica, Loki é o deus da travessura, astúcia e confusão."
-  },
-  {
-    "id": 782,
-    "pergunta": "Quem é a deusa do submundo e rainha da primavera?",
-    "opcoes": ["Perséfone", "Afrodite", "Diana", "Hera"],
-    "correta": 0,
-    "explicacao": "Perséfone é a deusa do submundo e filha de Deméter, associada às estações."
-  },
-  {
-    "id": 783,
-    "pergunta": "Qual deusa protege e caça animais selvagens?",
-    "opcoes": ["Artemis", "Afrodite", "Hestia", "Diana"],
-    "correta": 0,
-    "explicacao": "Artemis é a deusa da caça, da lua e protetora da vida selvagem."
-  },
-  {
-    "id": 784,
-    "pergunta": "Qual deus é parte da trindade hindu e preservador do universo?",
-    "opcoes": ["Vishu", "Shiva", "Brahma", "Ares"],
-    "correta": 0,
-    "explicacao": "Vishu é o deus preservador no hinduísmo, responsável pela manutenção do universo."
-  },
-  {
-    "id": 785,
-    "pergunta": "Quem é a deusa romana da caça e da lua?",
-    "opcoes": ["Diana", "Artemis", "Hera", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Diana é a deusa romana da caça e da lua, equivalente à Artemis grega."
-  },
-  {
-    "id": 786,
-    "pergunta": "Qual deusa grega é associada à lareira e ao lar?",
-    "opcoes": ["Hestia", "Athena", "Hera", "Durga"],
-    "correta": 0,
-    "explicacao": "Hestia é a deusa do lar, da família e da harmonia doméstica."
-  },
-  {
-    "id": 787,
-    "pergunta": "Qual deusa hindu é conhecida como guerreira protetora?",
-    "opcoes": ["Durga", "Isis", "Afrodite", "Hera"],
-    "correta": 0,
-    "explicacao": "Durga é a deusa guerreira que combate o mal e protege os justos."
-  },
-  {
-    "id": 788,
-    "pergunta": "Quem é a deusa egípcia da magia e fertilidade?",
-    "opcoes": ["Isis", "Perséfone", "Athena", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Isis é a deusa egípcia da magia, fertilidade e maternidade."
-  },
-  {
-    "id": 789,
-    "pergunta": "Qual cidade grega é famosa por seus guerreiros espartanos?",
-    "opcoes": ["Esparta", "Atenas", "Corinto", "Micenas"],
-    "correta": 0,
-    "explicacao": "Esparta era conhecida por sua disciplina militar e guerreiros treinados."
-  },
-  {
-    "id": 790,
-    "pergunta": "Quem é o deus grego do sol e da música?",
-    "opcoes": ["Apolo", "Ares", "Hermes", "Vishu"],
-    "correta": 0,
-    "explicacao": "Apolo é o deus do sol, da música, da profecia e das artes."
-  },
-  {
-    "id": 791,
-    "pergunta": "Qual deusa é conhecida como a deusa do amor e da beleza?",
-    "opcoes": ["Afrodite", "Hera", "Artemis", "Diana"],
-    "correta": 0,
-    "explicacao": "Afrodite é a deusa do amor, da beleza e do desejo."
-  },
-  {
-    "id": 792,
-    "pergunta": "Qual deus grego é mensageiro dos deuses?",
-    "opcoes": ["Hermes", "Apolo", "Ares", "Loki"],
-    "correta": 0,
-    "explicacao": "Hermes é o mensageiro dos deuses e deus do comércio e viagens."
-  },
-  {
-    "id": 793,
-    "pergunta": "Quem é a rainha dos deuses e deusa do casamento?",
-    "opcoes": ["Hera", "Athena", "Afrodite", "Hestia"],
-    "correta": 0,
-    "explicacao": "Hera é a rainha dos deuses e deusa do casamento e da família."
-  },
-  {
-    "id": 794,
-    "pergunta": "Qual deusa inventada você escolheu para representar o poder feminino, chamada Mate?",
-    "opcoes": ["Mate", "Shakira", "Artemis", "Diana"],
-    "correta": 0,
-    "explicacao": "Mate é uma deusa inventada neste quiz, representando criatividade e força feminina."
-  },
-  {
-    "id": 795,
-    "pergunta": "Qual deusa pop foi adicionada como deusa divertida para o quiz?",
-    "opcoes": ["Shakira", "Mate", "Afrodite", "Hera"],
-    "correta": 0,
-    "explicacao": "Shakira foi incluída como deusa inventada neste quiz, de forma lúdica."
-  },
-  {
-    "id": 796,
-    "pergunta": "Qual deusa romana da caça e da lua corresponde à grega Artemis?",
-    "opcoes": ["Diana", "Hestia", "Hera", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Diana é a versão romana da deusa Artemis grega."
-  },
-  {
-    "id": 797,
-    "pergunta": "Qual deus ou deusa é associado(a) à proteção e à justiça?",
-    "opcoes": ["Tó", "Perséfone", "Artemis", "Ator"],
-    "correta": 2,
-    "explicacao": "Artemis também protegia os inocentes e era guardiã da justiça."
-  },
-  {
-    "id": 798,
-    "pergunta": "Qual deus hindu é responsável pela manutenção do mundo?",
-    "opcoes": ["Vishu", "Shiva", "Brahma", "Loki"],
-    "correta": 0,
-    "explicacao": "Vishu é o deus preservador, mantendo a ordem do universo."
-  },
-  {
-    "id": 799,
-    "pergunta": "Qual deusa inventada foi incluída como guerreira chamada Ator?",
-    "opcoes": ["Ator", "Durga", "Hestia", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Ator é uma deusa inventada para fins deste quiz, representando guerra e força."
-  },
-  {
-    "id": 800,
-    "pergunta": "Quem é o deus da música e da arte na mitologia grega?",
-    "opcoes": ["Apolo", "Ares", "Hermes", "Vishu"],
-    "correta": 0,
-    "explicacao": "Apolo é o deus da música, artes e profecias."
-  },
-  {
-    "id": 801,
-    "pergunta": "Qual deusa grega protege a fertilidade e a agricultura?",
-    "opcoes": ["Deméter", "Artemis", "Hera", "Afrodite"],
-    "correta": 0,
-    "explicacao": "Deméter é a deusa da agricultura e fertilidade."
-  },
-  {
-    "id": 802,
-    "pergunta": "Qual deusa egípcia da magia também protege os mortos?",
-    "opcoes": ["Isis", "Perséfone", "Athena", "Hestia"],
-    "correta": 0,
-    "explicacao": "Isis é a deusa da magia, fertilidade e protetora dos mortos."
-  },
-  {
-    "id": 803,
-    "pergunta": "Quem é a deusa inventada que representa proteção e força, chamada Antena?",
-    "opcoes": ["Antena", "Mate", "Shakira", "Ator"],
-    "correta": 0,
-    "explicacao": "Antena é uma deusa inventada para o quiz, simbolizando proteção e estratégia."
-  },
-  {
-    "id": 804,
-    "pergunta": "Qual deus grego é conhecido como deus da guerra e da violência?",
-    "opcoes": ["Ares", "Hermes", "Apolo", "Loki"],
-    "correta": 0,
-    "explicacao": "Ares é o deus da guerra e da violência."
-  },
-  {
-    "id": 805,
-    "pergunta": "Qual deus ou deusa é mensageiro(a) e também associado(a) ao comércio?",
-    "opcoes": ["Hermes", "Apolo", "Ares", "Vishu"],
-    "correta": 0,
-    "explicacao": "Hermes é o deus mensageiro e protetor do comércio."
-  },
-  {
-    "id": 806,
-    "pergunta": "Qual deusa é conhecida como rainha do amor e do casamento?",
-    "opcoes": ["Hera", "Afrodite", "Diana", "Artemis"],
-    "correta": 0,
-    "explicacao": "Hera é a rainha dos deuses e deusa do casamento."
-  },
-  {
-    "id": 807,
-    "pergunta": "Qual deusa inventada do quiz representa charme e dança, chamada Shakira?",
-    "opcoes": ["Shakira", "Mate", "Antena", "Ator"],
-    "correta": 0,
-    "explicacao": "Shakira é uma deusa inventada, adicionada de forma lúdica ao quiz."
-  },
-  {
-    "id": 808,
-    "pergunta": "Qual deusa romana corresponde a Artemis, deusa da caça?",
-    "opcoes": ["Diana", "Afrodite", "Hera", "Hestia"],
-    "correta": 0,
-    "explicacao": "Diana é a versão romana de Artemis."
+    "pergunta": "Segundo João 14:6, qual é a declaração de Jesus sobre o caminho da salvação?",
+    "opcoes": ["Eu sou a porta das ovelhas", "Eu sou a luz do mundo", "Eu sou o caminho, a verdade e a vida", "Eu sou a videira verdadeira"],
+    "correta": 2,
+    "nivel": "facil",
+    "explicacao": "Jesus declarou: 'Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai senão por mim.'"
   }
 ]
