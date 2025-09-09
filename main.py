@@ -9,9 +9,11 @@ import time
 from datetime import datetime
 
 # ⛔ CONFIGURAÇÕES DO GRUPO E TOKENS (PODE ALTERAR SOMENTE O GRUPO_ID E DONO_ID)
-GRUPO_ID = -1002363575666
+GRUPO_ID = -1003004965902
 DONO_ID = 1481389775
 TOKEN = os.getenv("TELEGRAM_TOKEN")
+if not TOKEN:
+    raise ValueError("❌ TELEGRAM_TOKEN não definido. Configure nas variáveis de ambiente do Render.")
 # 🚀 AUTORIZADOS A FORÇAR PERGUNTA
 AUTORIZADOS = {DONO_ID, 7889195722}  # adicione mais IDs aqui se quiser
 RENDER_URL = os.getenv("RENDER_EXTERNAL_URL")
