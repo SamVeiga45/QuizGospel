@@ -15,7 +15,7 @@ TOKEN = os.getenv("TELEGRAM_TOKEN")
 if not TOKEN:
     raise ValueError("❌ TELEGRAM_TOKEN não definido. Configure nas variáveis de ambiente do Render.")
 # 🚀 AUTORIZADOS A FORÇAR PERGUNTA
-AUTORIZADOS = {DONO_ID, 7889195722}  # adicione mais IDs aqui se quiser
+AUTORIZADOS = {DONO_ID, 8254726347}  # adicione mais IDs aqui se quiser
 RENDER_URL = os.getenv("RENDER_EXTERNAL_URL")
 
 bot = telebot.TeleBot(TOKEN)
